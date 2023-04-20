@@ -1,0 +1,175 @@
+{
+    "cp_v2": {
+        "menu": {
+            "list": {
+                "0": "We probably have all experienced symptoms of early-stage NPC?",
+                "1": "Selecting an accurate and reliable early NPC detection test is the key.",
+                "2": "Simple and quick; just a Lunch Time to get it done",
+                "3": "“NPC could be cured by detecting early”",
+                "4": "Cheung Tat-ming, retaining his “second life” after recovering from NPC",
+                "5": "Contact us",
+                "athletes": "Calling from top athletes: get tested with NPC\n\"Insure\" your health today"
+            },
+            "office_website": "Website"
+        },
+        "promotion": {
+            "title": "Welcome Offer",
+            "price": "for a discount of <1>$330</1>",
+            "tip": " + Free Bluetooth Speaker",
+            "enter": "Enter"
+        },
+        "ngs_characteristic": {
+            "paragraphs": {
+                "0": "A lot of people mistakenly believe that NPC is merely linked to smoking habits. How can we think of being at risk of NPC especially if we are young and strong or live a healthy lifestyle? Actually, NPC can strike anyone at any age. The threat of NPC is hiding next to you and me.",
+                "1": "Therefore, no one should overlook the risk of getting NPC, which is, in fact, highly relevant to each of us.",
+                "2": "The early-stage NPC might seem to catch us off guard! So, these are all its signs?\n",
+                "3": "As the symptoms of early NPC resemble flu or inflammatory illnesses, it is typically easy to let the patients’ guards down and patients only relate themselves to some persistent mild illnesses, causing a delay in seeking medical intervention. As such, the best timing for NPC treatment is often missed when they notice the situation is getting severe. 80% of unscreened patients were diagnosed with late-stage NPC<1>1</1>, which significantly increased treatment difficulties and led to a reduced survival rate.\n",
+                "4": "Are you able to identify these symptoms?",
+                "5": "Is it the persistent flu, allergic rhinitis, or NPC…… all might be plausible? For no doubt, we should not make a shot in the dark!\nOf course, there is no way for us to identify these signs and make a diagnosis if we were not healthcare professionals. But, with accurate and reliable next-generation technologies, all of us can be our own life-saving heroes now by getting tested with early NPC detection test to take control of our health!"
+            },
+            "characteristics": {
+                "0": "NPC is one of the most common cancers in Hong Kong, and there are 600-800 new cases of NPC annually<1>2</1>.",
+                "1": "It is the top cancer for men aged between 20-44, and the fifth most common cancer for men aged between 45-64<1>3</1>.",
+                "2": "NPC is more likely to occur in women aged between 40-60<1>2</1>.",
+                "3": "NPC incidence rate in Hong Kong is 5 to 6 times the world’s average<1>4,5</1>."
+            },
+            "symptoms": {
+                "0": "Headache",
+                "1": "Tinnitus",
+                "2": "Nasal Blockage",
+                "3": "Blood-stained Nasal Discharge",
+                "4": "Neck Swelling",
+                "5": "Hoarse Voice"
+            },
+            "diseases": {
+                "0": "Nasopharyngeal Cancer",
+                "1": "Flu",
+                "2": "Allergic Rhinitis"
+            }
+        },
+        "ngs_advantage": {
+            "paragraphs": {
+                "0": "Facing unknown risks while travelling abroad, we will buy insurance in advance to prepare; in the journey of life, we should also be aware of the risks of developing NPC and nip it in the bud. \n\nThe early NPC detection test enables patients with non-specific symptoms to be identified at early-stage for timely treatment, resulting in increasing survival rate, reducing the side effects of treatments, and minimising the impact on our lives. By well-preparing the “insurance” for your health – regularly taking early NPC detection test, NPC would no longer seem frightening, allowing us to focus on enjoying a quality life. ",
+                "1": "How can we define a reliable and effective NPC detection test?\n",
+                "2": "All in all, we should choose an early detection test that has a high sensitivity and a low false-positive rate. These criteria reflect that the test could effectively detect true patients so that patients would not be missed and result in a delay in their treatments; while the screened population are also less likely to be reported as \"diseased\" wrongly so that they would not suffer unnecessary worries.",
+                "3": "Test for Nasopharyngeal Cancer \nConsidered the most reliable test available on the market",
+                "4": "Take2 Prophecy™ Test for Nasopharyngeal Cancer (NPC) specialises in capturing the NPC-associated DNA signal in the bloodstream, using Next-generation Sequencing (NGS) technology. It effectively enables NPC patients to be identified in their early-stage for timely treatment and increases their survival rate. \n\nThe Take2 Prophecy™ Test for NPC has over 97% sensitivity<1>1,6</1>, and very few cases of NPC would be missed. Also, it only has a 0.7% remarkably low false-positive rate<1>6</1>. Providing accurate and reliable results, the Take2 Prophecy™ Test for NPC ranks the top over other similar tests!",
+                "5": "Developed by the leading university\nClinically proven with thousands of individuals",
+                "6": "High sensitivity, low false positive rate",
+                "7": "is critical"
+            },
+            "efficient_detections": {
+                "0": "<strong>Sensitivity</strong> refers to the proportion of patients with NPC being correctly identified by a positive detection result. Therefore, the higher the test’s sensitivity, the lower the chance of missing the diseased ones in the screened population; which means the test is more reliable.",
+                "1": "On the contrary, if the sensitivity of a detection test is not high enough, it might miss the detection of true NPC patients. Those missed NPC patients may assume themselves as disease-free, resulting in a delay in diagnosis and treatment at the best timing.",
+                "2": "<strong>False positive</strong> means that a person who does not have NPC gets a positive detection test result. The higher the test’s false-positive rate, the more non-NPC individuals are being reported as \"diseased\", which exposes the non-diseased ones to unnecessary mental burden and additional medical procedures."
+            },
+            "table": {
+                "row_titles": {
+                    "0": "Take2 Prophecy™ Test for Nasopharyngeal Cancer",
+                    "1": "Traditional EBV DNA test",
+                    "2": "Traditional EBV serology test"
+                },
+                "column_titles": {
+                    "0": "Sensitivity",
+                    "1": "False-positive rate"
+                },
+                "about": "\nAbout",
+                "up_to": "up to"
+            },
+            "advantages": {
+                "0": {
+                    "title": "High sensitivity",
+                    "content": "The Take2 Prophecy™ Test for NPC has over 97% sensitivity<1>1,6</1>, and very few cases of NPC would be missed. Also, it only has a 0.7% remarkably low false-positive rate<1>6</1>. Providing accurate and reliable results, the Take2 Prophecy™ Test for NPC ranks the top over other similar tests!"
+                },
+                "1": {
+                    "title": "Clinically proven with thousands of individuals",
+                    "content": "The utilised technologies have also been validated in a large-scale clinical study involving 20,000 individuals<1>1</1>; thus making the Take2 Prophecy™ Test for NPC the most reliable early NPC detection test on the market.\n<2>(Please consult healthcare professionals for more information)</2>"
+                },
+                "2": {
+                    "title": "Developed by the leading university",
+                    "content": "Take2 Prophecy™ Test for Nasopharyngeal Cancer, beginning with the research achievement of the world-class research team from a renowned Hong Kong university, utilises NGS technology in early NPC detection."
+                }
+            }
+        },
+        "ngs_progress": {
+            "paragraphs": {
+                "0": "When the term “cancer detection test” is putting up, we may immediately associate it with many complicated procedures and needs, such as requesting a leave from work for hospital admission, visiting a specialist, undergoing tissue biopsy, using sizeable medical devices, and so on. \n\nDo not worry! Take2 Prophecy™ Test for Nasopharyngeal Cancer breaks the past limitations through utilising next-generation technologies; henceforward, the early NPC detection test becomes amazingly simple. Just make appointments online, at the soonest, you can get the test done in 15 minutes at your nearest clinic. If you are experiencing a continuous nasal blockage, headache, or tinnitus in daily life, take the test now and get rid of the potential threats of NPC!",
+                "1": "Accomplish in 3 steps",
+                "2": "Take2 Prophecy™ Test for NPC is adopted by numerous renowned medical institutions. Check out the nearest service locations:"
+            },
+            "steps": {
+                "0": {
+                    "title": "<1>1</1>-click online registration",
+                    "content": "You can make appointments on the Take2 Health Online Platform through a one-stop selection of clinics, healthcare professionals, appointment dates, and times."
+                },
+                "1": {
+                    "title": "Walk <1>2</1> and a few paces for blood samples collection",
+                    "content": "Simple and non-invasive, Take2 Prophecy™ test only requires a single blood draw at clinic without admission to the hospital; widely accessible with coverage all over the territories. You can take the test nearby your home or work locations."
+                },
+                "2": {
+                    "title": "Test results ready in <1>3</1> days",
+                    "content": "Results can be available as soon as 3 working days, you will no longer feel anxious due to the long waiting."
+                }
+            }
+        },
+        "news": {
+            "paragraphs": {
+                "0": "Learn more about NPC survivors’ stories",
+                "1": "Read more"
+            }
+        },
+        "second_life": {
+            "paragraphs": {
+                "0": "Mr. Cheung Tat-ming, a Nasopharyngeal Cancer (NPC) survivor, had experienced a delay in seeking medical intervention because of lacking cancer awareness, and hence he overlooked the warning signs of his health. Walking along the road to fight against NPC for seven years, he successfully beat the NPC. Now, he can continuously scale new heights in his acting profession.\n\nLet us watch the video below together to understand Tat-ming’s story about regaining his “second life” and the importance of detecting cancer early!",
+                "1": "Do not let NPC take over the control of your life. The earlier you know, the better you can manage. Get tested regularly; Take2 Prophecy™ Test for NPC helps you “Cure NPC earlier by knowing it earlier”"
+            }
+        },
+        "contact_and_reference": {
+            "paragraphs": {
+                "0": "Still have questions?",
+                "1": "Shilly-shallying? Talk to our professional healthcare team (complimentary):",
+                "2": "Learn more about Take2 Prophecy™ Test for Nasopharyngeal Cancer:",
+                "3": "Follow us for the latest information:",
+                "4": "References",
+                "5": "Terms and Conditions"
+            }
+        },
+        "footer": {
+            "paragraphs": {
+                "0": "Unit 506, 5/F, Building 12W, Hong Kong Science Park, Sha Tin, N.T., Hong Kong"
+            }
+        },
+        "common": {
+            "view_service_location": "View service Location"
+        },
+        "terms_and_conditions": "1. Below Terms apply to the Promotion offered by Take2 Health Limited (“we”, “us”, “our”). By participating in the Promotion, you agree to the Terms below. \n2. You must read these Terms along with\nthe <2>Privacy Policy</2>, <3>Terms of Use</3>, <4>Personal Information Collection Statement</4> on our Website (“Website”: <1>take2health.net</1>), <5>Take2 Health Platform Privacy Policy</5>, <6>Take2 Health Platform Terms and Conditions</6>, <7>Take2 Health Platform Personal Information Collection Statement</7>, and any \nother terms we may provide to you (“Other Terms”). In addition to these terms, any Other Terms also apply.\n3. Any use of the word “Double” and “Twice” on the related marketing materials of the Promotion means that it includes the “NEW330” Promotion Code Promotion (“NEW330 Promotion”) and the Promotion offer. NEW330 Promotion and this Promotion could be applied independently. This Promotion only indicates the offer listed in Clause 4 of this Terms. (To enjoy the NEW330 Promotion, you shall meet the listed requirements in its respective Terms and Conditions. For details: <8>“NEW330” Promotion Code Promotion (the “Promotion”) Terms and Conditions</8>).\n4. To participate in this Promotion and be eligible for the complimentary gift -- Samsung C&T ITFIT IPX7 Waterproof Bluetooth Speaker (1 pc, value: HKD498) (“Gift”), you must:\na. solely purchase the Take2 Prophecy™ Test for Nasopharyngeal Cancer (single test item) (“Test”) within the promotion period from 1 August 2022 to 31 August 2022, both dates inclusive (\"Promotion Period”), on the Take2 Health Platform (<9>https://take2health.net/health-platform/</9>);\nb. register as the Take2 Extra Care member;\nc. complete the payment procedure successfully (“Eligible Appointment”) and blood-drawing procedure on or before 5 September 2022. You may refer to Clause 7 for the definition of the successful payment procedure. \n5. The styles, patterns, and colours of the Gift will be offered on a random and first-come-first-served basis. The supply of gifts is subject to availability. We reserve the right to replace the Gift with any other items/ vouchers/ rewards without prior notice, if the Gift runs out of stock. The value of the replaced items/ vouchers/ rewards might not have the same value as the Gifts or with similar nature.\n6. The purchasing date and time (all records shall reference GMT+08:00, Hong Kong Standard Time) of all Eligible Appointments are based on the time of receipt by our server. We will not be liable for any matter or loss in relation to submission delay, loss, and any information transmission error due to technical problems including but not limited to any computer or internet network issues.\n7. A successful completion of payment is based on the transaction records of financial institutions held by us and the final decision is made at its absolute discretion (if there is any discrepancy, the transaction records of financial institutions held by us shall prevail). \n8. In the event of any cancellation of Eligible Appointments or refunds, your eligibility to receive the Gift shall be voided.\n9. The Gift does not include any warranty and is neither transferrable, returnable nor exchangeable for cash or any other form of compensation. \n10. We are not the supplier of the Gift for the Promotion, and make no representations or guarantees for the Gift, therefore all aspects of the Gifts (including but not limited to the quality and availability) are not within our responsibility. If you have any disputes or complaints about Gift, you should contact the relevant supplier directly.\n11. Photos or images of the Gift are for reference only and may be slightly different from the actual item. Any complaints about the difference shall not be entertained.\n12. If you fail to redeem the entitled Gift at the designated location by presenting the valid supporting documents within the redemption period, it is deemed as to renounce the claim of the entitled Gift. The respective gift redemption letter and details will be sent to the registered email address no later than 9 September 2022. Please refer to the email received for redemption guidelines. \n13. This Promotion is applicable to the designated products or services specified by us and does not apply to services and products made available and sold by third-party medical service and/or testing service providers.\n14. We reserve the rights at any time, without prior notice or reason and in our sole discretion, to: \na. change, modify, suspend, or terminate the Promotion or these Terms (including any offer or discount);\nb. make any decision in connection with the Promotion (including refuse or suspend your participation in the Promotion or determine whether the Promotion can or cannot be combined with any other offer or promotion); and\nc. determine that the promotion code has been used for an improper purpose and cancel your use of any such Promotion Code.\nAny such rights exercised by us shall be conclusive and binding on you.\n15. If case of any dispute arises in connection with the Promotion, we reserve the right of the final decision.\n16. These Terms are governed in all respects by and construed in accordance with the laws of the Hong Kong Special Administrative Region. The parties submit to the exclusive jurisdiction of the courts of the Hong Kong Special Administrative Region.\n17. The English version of the Terms shall prevail in the event of a conflict with other language versions.\n\nLast revision date: 1 August 2022",
+        "athletes": {
+            "heros": {
+                "0": {
+                    "name": "Kelvin Ng, Stone Shek",
+                    "title": "Hong Kong Gymnast",
+                    "intro": "\"NPC is the top one cancer among men aged 20-44 in Hong Kong<1>3</1>. The best way to stay vigilant against it is to undergo early NPC detection. Taking the test is similar to getting your health “insured”.  Studies show that the survival rate of early-stage NPC patients could be higher than 90%<2>9</2>. So always get tested early to receive timely medical intervention.”"
+                },
+                "1": {
+                    "name": "Chris Cheung",
+                    "title": "Hong Kong Freediving Record Holder",
+                    "intro": "“My family has always been supportive to me to pursue my career as a freediver and pushing myself against physical and mental boundaries. In return, I would take good care of my health. Since NPC is one of the top five cancers among men aged 45-64<1>2</1>, I would regularly undergo early NPC detection, to stay vigilant against it, and thus minimise the impacts brought by NPC. I won’t let it ruin my life ”"
+                },
+                "2": {
+                    "name": "Sherie Kong",
+                    "title": "The World’s First Chinese Female Jockey",
+                    "intro": "“Ladies, whether you are an ironwoman in the workplace, or the pillar in your family, you have to pay attention to your health. In Hong Kong, every one out of four NPC patients is female<1>9</1>. Its incidence not only occurs in women between 40-60 years old<1>2</1>, but the younger 90s can also be diagnosed with NPC too<2>10</2>. Take control of your health and take control of your life. Book the test now!”"
+                }
+            },
+            "paragraphs": {
+                "0": "Athletes undergo rigorous training daily to maintain an optimal fitness level. Still, taking care of their wellness is essential. Through regular medical check-ups, athletes can fully understand their physical health conditions and make respective adjustments when needed.\n\nLike most of us, especially in young adulthood, we seldom consider our health is at risk and threatened by diseases. <1></1>In fact, many diseases show no obvious signs and symptoms during the early-stage, which often can be diagnosed in time. Very often the disease was discovered late and as a result, we missed the golden period for treatment and left ourselves a lifelong regret. Therefore, it is important to nip the disease in the bud - by undergoing early NPC detection, when timely medical intervention is allowed, and thus the patients’ treatment outcome can be better, especially at the early-stage.",
+                "1": "Let’s take a look at how the top athletes conduct their health management:",
+                "2": "\"Insure” your health today",
+                "3": "When determining if we have cancer, it’s impractical to judge based on the symptoms, because that's not always the case. The symptoms of NPC such as nasal blockage, headache, and tinnitus are neither easy to notice nor alert, as they resemble flu or inflammatory illnesses. We may overlook the warning signs of NPC and cause delay in seeking medical intervention until the situation gets worse. Study reveals that 80% of unscreened patients were diagnosed with late-stage NPC<1>1</1>. As of now, NPC has multifactorial aetiology, and several risk factors are involved in its development; also, there is no vaccine available for prevention or medication to cure.\n\nThankfully, with the recent technological advancement, there is a quick and simple way to detect NPC early when a better medical outcome is expected. With just a simple three-step procedure, it provides insights to help us be proactive about our health. All in all, a negative result will give us peace of mind while an early diagnosis of NPC can help us receive timely treatment and a better outcome.\n\nIn addition, early NPC detection minimises treatments’ side effects and brings higher survival. Meanwhile, the treatment duration is usually shorter in the early-stage than that in the late-stage, which can relieve the burden of the family members, as well as reduce the medical expenses.  Upon recovery, we can even continue to pursue our life goals and celebrate every happy moment with family. Therefore, undergoing early NPC detection is like “purchasing an insurance” for your health. It helps NPC patients to get identified early and seize the golden period for treatment, thus minimising the impacts on our physical health, family, and career.",
+                "4": "Check out the Behind-the-Scenes exclusive",
+                "5": "Take control of your health, take control of your life. With a robust body, we can focus on overcoming challenges and propelling to our championship in the game of life! Good health is not just for athletes; it is for everyone. So, without further ado, book an appointment now for the early NPC detection. “Insure” yourself and your beloved ones today. "
+            }
+        },
+        "video_title": "Eliminate the threat of NPC in <1>15 minutes</1>"
+    }
+}

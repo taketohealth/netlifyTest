@@ -1,0 +1,88 @@
+runtime: nodejs14
+
+handlers:
+  # Serve all static files with url ending with a file extension
+  # - url: /(.*\..+)$
+  # static_files: build/\1
+  # upload: public/(.*\..+)$
+  # Catch all handler to index.html
+  # - url: /.*
+  #   static_files: public/index.html
+  #   upload: public/index.html
+  - url: /
+    static_files: .public/index.html
+    upload: .public/index.html
+  - url: /(.*)
+    static_files: .public/\1
+    upload: .public/(.*)
+    # - url: /
+    #   static_files: public/index.html
+    #   upload: public/index.html
+
+    # - url: /((.*\/)*[^\/]+\.[^\/]+)$
+    #   static_files: public/\1
+    #   upload: public/.*
+
+    # - url: /(.*)$
+    #   static_files: public/\1/index.html
+    #   upload: public/.*/index.html
+
+    # - url: /(.+\.js)
+    #   static_files: public/\1
+    #   upload: public/(.+\.js)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.css)
+    #   static_files: public/\1
+    #   upload: public/(.+\.css)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.png)
+    #   static_files: public/\1
+    #   upload: public/(.+\.png)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.jpg)
+    #   static_files: public/\1
+    #   upload: public/(.+\.jpg)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.gif)
+    #   static_files: public/\1
+    #   upload: public/(.+\.gif)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.svg)
+    #   static_files: public/\1
+    #   upload: public/(.+\.svg)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /favicon.ico
+    #   static_files: public/favicon.ico
+    #   upload: public/favicon.ico
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+\.json)
+    #   static_files: public/\1
+    #   upload: public/(.+\.json)
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /(.+)
+    #   static_files: public/index.html
+    #   upload: public/index.html
+    #   secure: always
+    #   redirect_http_response_code: 301
+
+    # - url: /
+    #   static_files: public/index.html
+    #   upload: public/index.html
+    #   secure: always
+    #   redirect_http_response_code: 301

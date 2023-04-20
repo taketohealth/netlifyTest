@@ -1,0 +1,486 @@
+{
+    "whats_new": {
+        "promotions": {
+            "title": "Latest Promotions",
+            "detail": "Check out the latest promotions from our collaborating healthcare service providers for more exclusive offers and discounts."
+        },
+        "health_tips": {
+            "title": "Health Tips",
+            "detail": "We value the health of you and your family. Please stay tuned for the latest updates on our health tips!"
+        }
+    },
+    "service_location": {
+        "title": "Service Locations – Hong Kong",
+        "more": "Service Location"
+    },
+    "homepage": {
+        "sign_up": {
+            "title": "Register Now to Enjoy Exclusive Privileges!",
+            "detail": "Register now as a member to stay connected! You will also be able to receive exclusive promotions, the latest health tips, and gain access to the Take2 Health Platform for scheduling an appointment."
+        }
+    },
+    "common": {
+        "sign_up": "Register Now",
+        "learn_more": "Learn More",
+        "view_more": "Read More",
+        "view_details": "View Details",
+        "book_now": "Book Now",
+        "display": "Dispaly",
+        "submit": "Submit",
+        "sign_up_as_menber": "Register in Take2 Health Platform",
+        "or": "or",
+        "book_detection": "Book our Service Now",
+        "service_location": "Service Locations",
+        "notice": "Important Note",
+        "sign_in": "Sign In",
+        "faq": "FAQ",
+        "register": "Register",
+        "follow_us": "Follow Us",
+        "take2_copy_right": "Take2 Health All Rights Reserved",
+        "online_promotion_code": "Book Online<br/>Promo Code",
+        "member_registration": "Member Registration",
+        "take2_health": "Take2 Health Limited",
+        "release_date": "Job Posting Date",
+        "more": "More {{field}}"
+    },
+    "t_and_c": {
+        "terms_and_conditions": "Terms and conditions",
+        "privacy_policy": "Privacy Policy",
+        "personal_information_collection_statement": "Personal Information Collection Statement",
+        "website_terms_of_use": "Terms of Use"
+    },
+    "status": {
+        "copy": {
+            "success": "Copy the article link successfully!"
+        },
+        "request": {
+            "empty_data": "No FAQ data yet"
+        },
+        "submit": {
+            "fail": "Submission Failed",
+            "success": "Submitted Successfully"
+        }
+    },
+    "form": {
+        "placeholder": {
+            "search": "Search",
+            "select": "Select {{field}}",
+            "enter": "Please enter {{field}}"
+        },
+        "region": {
+            "label": "Region",
+            "options": {
+                "all": "All Regions",
+                "other": "Other Regions",
+                "hongkong": "Hong Kong"
+            }
+        },
+        "gender": {
+            "label": "Gender"
+        },
+        "age": {
+            "label": "Age"
+        },
+        "email": {
+            "label": "Email"
+        },
+        "phone": {
+            "label": "Phone",
+            "placeholder": "9876 5432"
+        },
+        "contact": {
+            "label": "Contact person"
+        },
+        "company": {
+            "label": "Company name"
+        },
+        "message": {
+            "label": "Message",
+            "placeholder": "Please enter your message",
+            "validation": {
+                "required": "*Required information"
+            }
+        },
+        "validation": {
+            "correct_form": "Please enter the correct format {{field}}",
+            "check_agreement": "Tick to agree",
+            "finish_quiz": "Please complete the quiz"
+        }
+    },
+    "quiz": {
+        "pre": "Back",
+        "next": "Next",
+        "start": {
+            "button": "Start Now",
+            "title": "Get Started with Your Free NPC Risk Assessment!",
+            "detail": "Despite the symptoms of NPC are non-specific at early stage, the risk of developing NPC may be predicted through NPC risk factor assessment. \n\nTake the simple assessment now to understand the risk factors and symptoms of NPC. <1></1>The assessment is designed by healthcare professionals to deepen your understanding of the risk factors and related symptoms. \n\nStart taking charge of your health now as the survival rate for patients that diagnosed at late-stage will decrease to below 70% over the next five years.",
+            "reference": "The assessment result serves as a reference only.<br/> There are many factors that cause NPC and the symptoms may vary from person to person. Please consult healthcare professionals for more information, or you may reach out to our professional healthcare team for further support."
+        },
+        "last": {
+            "title": "Just one more step to get your free test result!",
+            "detail": "Please type in the following information and receive the test result for free via email. Registered nurses will be in touch with you online and provide additional product and service details. You may also register to become Take2 ExtraCare member for free."
+        },
+        "agreement": "I acknowledge and agree with the <1>Privacy Policy</1> and <1>Personal Information Collection Statement</1> listed in take2health.net under Take2 Health Limited.",
+        "direct_sign_up": "Register as a Take2 Extra Care member\n",
+        "final": {
+            "title": "Thanks for participating!",
+            "subtitle": "Thank you for completing the risk assessment.",
+            "detail_1": "The risks and symptoms stated in the assessment are highly related to NPC. If you experience these symptoms continuously, it is advised to consult healthcare professionals as soon as possible.",
+            "detail_2": "You could join as a lifetime member at no cost and enjoy the exclusive privileges under the program, including services of live chat, health tips, exclusive offers, annual check-up reminders and more."
+        },
+        "questions": {
+            "0": "Have your family members ever been diagnosed with NPC?",
+            "1": "Have you ever suffered from nosebleeds or bloody nasal discharge?",
+            "2": "Have you ever experienced swollen lymph nodes on your neck?",
+            "3": "How often do you suffer from headache or one-sided headache?",
+            "4": "Have you ever suffered from tinnitus (ringing sound in the ear)?",
+            "5": "How often do you smoke?"
+        }
+    },
+    "options": {
+        "gender": {
+            "male": "Male",
+            "female": "Female"
+        },
+        "quiz": {
+            "no": "No",
+            "unclear": "Not sure",
+            "yes": "Yes",
+            "never": "Never",
+            "rarely": "Rarely",
+            "sometimes": "Sometimes",
+            "often": "Often"
+        },
+        "age": {
+            "20_or_below": "20 or below",
+            "61_or_above": "61 or above"
+        },
+        "career_regions": {
+            "all": "All Regions",
+            "mainland_china": "China",
+            "hongkong_special_administrative_region": "Hong Kong"
+        },
+        "department": {
+            "all": "All Departments",
+            "business_strategic_cooperation": "Business C"
+        },
+        "macao_regions": {
+            "macao": "Macau"
+        },
+        "post_types": {
+            "all_updates": "Latest News",
+            "business_cooperation": "Corporate Development",
+            "ceo_sharing": "CEO Sharing",
+            "company_awards_and_achievements": "Company Awards and Achievements",
+            "company_trends": "Company Trends",
+            "industry_information": "Industry Update",
+            "health_tip": "Health Tip",
+            "professional_healthcare_tip": "Professional Healthcare Tip"
+        },
+        "regions": {
+            "all": "All Regions",
+            "hongkong": "Hong Kong",
+            "kowloon": "Kowloon",
+            "new_territories_east": "New Territories East",
+            "new_territories_west": "New Territories West",
+            "macao": "Macau",
+            "kowloon_west": "Kowloon West",
+            "kowloon_central": "Kowloon Central",
+            "kowloon_east": "Kowloon East",
+            "west_of_hongkong_island": "Hong Kong Island West",
+            "east_of_hongkong_island": "Hong Kong Island East",
+            "new_territories_north": "New Territories North",
+            "southeast_new_territories": "New Territories Southeast",
+            "northwest_new_territories": "New Territories Northwest",
+            "northeast_new_territories": "New Territories Northeast",
+            "southwest_new_territories": "New Territories Southwest",
+            "other": "Other Areas"
+        },
+        "faq_types": {
+            "all": "All FAQ",
+            "detection_service": "Detection Service",
+            "detection_technology": "Detection Technology",
+            "price_and_service": "Price and Service",
+            "book_online_and_pay_process": "Book Online and Pay Process",
+            "notes_and_result": "Notes and Result",
+            "about_npc": "About NPC",
+            "membership_program": "Membership Program",
+            "privacy_and_electronic_records": "Privacy and Electronic Records"
+        }
+    },
+    "our_technologies": {
+        "clinical_papers": {
+            "title": "Relevant Studies and Literature",
+            "detail": "The Take2 Prophecy™ Test for NPC utilises the pioneering technology invented by an award-winning research team from the Chinese University of Hong Kong (CUHK). The technologies has been validated by large-scale clinical study involving 20,000 individuals and the research was published in the globally respected New England Journal of Medicine and Proceedings of the National Academy of Sciences of the United States of America. The reports and results can be viewed here:"
+        },
+        "ngs": {
+            "title": "What is Next-generation Sequencing (NGS)?",
+            "what_is_ngs": "What is Next-generation Sequencing?",
+            "intro": "NGS (Next-generation Sequencing) is a powerful tool that utilises the high-throughput and massively parallel sequencing approach, which has greatly improved sequencing efficiency while maintaining a high level of accuracy.The first-generation sequencing (Sanger sequencing) can only sequence a single DNA fragment at a time, while NGS can sequence and analyse hundreds to thousands of genes simultaneously, this allows scientists to rapidly obtain results that cover the entire human genome.<br/><br/>Compared to the first-generation sequencing, NGS has a significantly higher sequencing throughput and sequencing speed. This has made the whole genome sequencing process less expensive and time-consuming, reducing the cost from nearly 30 billion USD to about 1000 USD and the time required from 10 years to just 1 day. Besides, NGS has a higher sensitivity, which allows new or rare mutations within the target region of the genome to be detected by deep sequencing. Therefore, NGS can perform complex analysis that is beyond the capacity of the first-generation sequencing. For example, performing a large-scale whole-genome sequencing to analyse a complete human genome, or using transcriptome sequencing for mRNA, miRNA expression and RNA splicing analysis.<br/><br/>With the ultra-high throughput, scalability and speed offered by NGS, a wide range of applications can now be performed by scientists to study biological systems at an unprecedented level. Results generated from NGS can be combined with genomic data and bioinformatic studies to provide useful information for diseases and population-wide genomic research. Clinical applications of NGS include sequencing cancer samples to study rare somatic mutations, analysing epigenetic factors and revealing disease-related alleles.",
+            "notes": {
+                "0": {
+                    "title": "How Does the Take2 Prophecy™ Test for NPC Work?",
+                    "content": "The Take2 Prophecy™ Test for NPC detects human and NPC-associated genomic signatures of EBV DNA in the bloodstream with a combination of Polymerase Chain Reaction (PCR) and Next-generation Sequencing (NGS) technologies. With the help of advanced algorithms, NPC can be accurately detected at a significantly earlier stage such that patients can receive more timely and effective treatment to increase chances of survival³."
+                },
+                "1": {
+                    "title": "Limitations of Identifying NPC Through Tissue Biopsy",
+                    "content": "Tissue biopsy is the gold standard of NPC diagnosis. To diagnose NPC by means of tissue biopsy, a trained medical practitioner (usually Ear, Nose and Throat specialist) would perform a nasoendoscopy to take out tissue samples from the nasopharynx. The body tissues will be examined for NPC changes under the microscope. However, tissue biopsy has some limitations. It is an invasive medical procedure and might not be suitable to perform on every single part of the body. During a tissue biopsy, only a small section of tissue is removed; this section may not represent the heterogeneity of the tumor. A tissue biopsy can be difficult to repeat and impractical to be used as a periodical monitoring of disease progression. Furthermore, patients with coagulation disorder might encounter a higher risk of bleeding during such an invasive procedure."
+                },
+                "2": {
+                    "title": "Are the Traditional EBV Tests Reliable for Identifying NPC?",
+                    "content": "Other than undergoing nasoendoscopy and tissue samples examination, traditional EBV (Epstein-Barr Virus) tests are commonly used for identifying NPC as EBV is highly associated with NPC. EBV Serology test, and EBV DNA test which adopt PCR technology to determine the EBV DNA quantity in blood plasma, are the common types of traditional EBV tests. However, EBV infection is prevalent, the presence of EBV antibodies or DNA may represent merely a transient infection more than reflecting NPC status. These traditional EBV tests cannot confidently differentiate patients with EBV infection from NPC patients."
+                }
+            },
+            "read_full_article": "(Read Full Article)"
+        },
+        "early_cancer_detection": {
+            "title": "Why Early NPC Detection is Vital",
+            "center_data": {
+                "0": "is the No.1 cancer amongst men aged 20 to 44¹",
+                "1": "is one of the cancers that is more likely to occur between 50 to 60 years old in women, apart from breast cancer and uterine cancer²",
+                "2": "occurs at a relatively younger age, unlike colon, liver or prostate cancers³, where most patients are aged 65 to 80; over 80% of NPC patients are 50 to 65 years old, for whom are entering their “golden age” and planning for retirement."
+            },
+            "references": {
+                "0": "<sup>1</sup><i>Overview of Hong Kong Cancer Statistics of 2018.</i> Hong Kong Hospital Authority, October 2020.",
+                "1": "<sup>2</sup><i>Hong Kong Cancer Registry.</i> Hong Kong Hospital Authority, www3.ha.org.hk/cancereg/. Accessed 23 May 2021.",
+                "2": "<sup>3</sup>認識癌症：鼻咽癌. Hong Kong Cancer Fund, 2021, www.cancer-fund.org/wp-content/uploads/2021/03/NPC-20C-Revamp-Web_s.pdf."
+            },
+            "do_you_know": "Do You Know?",
+            "do_you_know_content": "NPC can Strike Anyone at Any Age!",
+            "center_data_title": "Recent Hong Kong Cancer Registry figures show that NPC:",
+            "content_data_detail": "Cancer might seem frightening to many people but let us not worry. Taking early cancer detection tests regularly is an excellent first step for us to stay vigilant about potential diseases. Early diagnosis and treatment may bring better survival. After all, we can still live a quality life after the battle.",
+            "whats_is_early_cancer_detection": "What is an Early Detection Test for NPC?",
+            "whats_is_early_cancer_detection_content": "An early cancer detection test is a medical assessment that helps to identify the risks of cancer in apparently healthy people. A person with cancer may, or may not, be experiencing significant symptoms; moreover, the presence of symptoms alone is not a reliable indicator to confirm having cancer. Under this situation, an early cancer detection test can tell the likeliness of having such disease at the test moment or in the future. With the information provided by an early cancer detection test, a patient can realise the disease earlier and receive timely treatment. The patient might possibly suffer fewer complications and experience better survival. An early cancer detection test with high sensitivity and specificity can further reduce the possibilities of misdiagnosis and lift the anxiety brought by inaccurate testing results.<br/><br/>The Take2 Prophecy™ Test for NPC is an early cancer detection test which is suitable for anyone, no matter one is asymptomatic or with non-specific symptoms. Our test is blood-based and non-invasive with the use of ground-breaking Next-generation Sequencing technology to analyse human and NPC-associated genomic signatures of EBV DNA in the blood plasma. By testing early, NPC patients can be identified at the early stage then start to receive treatment much earlier which can minimise possible side-effects and significantly increase their chance of survival.",
+            "reason_title": "Why is Early Detection for NPC so Important?",
+            "reasons": {
+                "0": {
+                    "content": "The anatomical location of nasopharynx is rather ‘concealed’ and difficult to examine. Some NPC symptoms may resemble flu or inflammation conditions, patients may overlook these warning signs.",
+                    "title": "NPC is not easy to notice."
+                },
+                "1": {
+                    "content": "There is no vaccination to prevent NPC yet.",
+                    "title": "There is no vaccination to prevent NPC yet."
+                },
+                "2": {
+                    "content": "Radiotherapy and chemotherapy remain the major treatment choices according to the staging of NPC.",
+                    "title": "There is no \"magic cure” for NPC."
+                }
+            },
+            "expect": "Through promoting early cancer detection, we are dedicated to helping the public to understand cancer and the available detection solutions, hence establishing higher awareness and better management of personal health in the community.  By adopting the cutting-edge medical innovations, it is now able to envision a brighter future with advanced healthcare management."
+        }
+    },
+    "products_and_services": {
+        "take2_extra_care": {
+            "title": "Take2 Extra Care Membership Program",
+            "steps": {
+                "0": "Order and perform the Take2 Prophecy™ Test for NPC",
+                "1": "Simply complete and return the membership form at our service locations OR",
+                "2": "Register directly at the Take2 Health Platform"
+            },
+            "what_is_extra_care": "About the Program",
+            "what_is_extra_care_content": "Open to any individuals, Take2 Extra Care is a complimentary all-round health management program, designed by a team of healthcare professionals.",
+            "how_to_join_extra_care": "Simple Enrolment",
+            "benefit_of_extra_care": "What are the Benefits of Joining\nTake2 Extra Care?",
+            "benefit_of_extra_care_content": "Open to any individuals, Take2 Extra Care is a complimentary all-round health management program, designed by a team of healthcare professionals, including live chat, exclusive offers, health tips and annual check-up reminders.\n\nSign up for your membership today, get access to cutting-edge technologies and professional healthcare support and save time and money on your health management. ",
+            "club_plans": {
+                "0": "Live chat",
+                "1": "Exclusive offers",
+                "2": "Health tips",
+                "3": "Annual check-up reminders"
+            },
+            "faq": {
+                "welcome_contact": "If you have any other questions, please feel free to contact us:"
+            }
+        },
+        "take2_prophecy": {
+            "title": "The Take2 Prophecy™ Test for Nasopharyngeal Cancer",
+            "detail": "Take2 Prophecy™ Test for Nasopharyngeal Cancer (NPC) utilises Next-generation Sequencing (NGS) technology, that achieves > 97% sensitivity<1>1,2</1> and 0.7% low false-positive rate<1>2</1>. Providing accurate and reliable results, the Take2 Prophecy™ Test for NPC ranks at the top over other similar tests. It only requires a blood draw to effectively identify early-stage NPC patients.",
+            "detection_process": "Test Procedures",
+            "process": {
+                "0": "Doctor’s assessment",
+                "1": "Collection of blood samples",
+                "2": "Test performed at local laboratories",
+                "3": "Test results ready in\n3 - 7 working days",
+                "4": "Test results’ interpretation by the doctor"
+            },
+            "reports": {
+                "0": {
+                    "result": "Positive test result*",
+                    "suggestion": "Follow-up consultation with Ear, Nose & Throat Specialists",
+                    "mark": "* Positive: Human and NPC-associated genomic signatures of EBV DNA were detected"
+                },
+                "1": {
+                    "result": "Negative test result**",
+                    "suggestion": "Regular check-ups",
+                    "mark": "** Negative: Human and NPC-associated genomic signatures of EBV DNA were not detected"
+                }
+            },
+            "notice": "Patients who have had organ transplant, currently have cancer or autoimmune diseases, or those currently receiving systemic glucocorticoid or immunosuppressive treatment are not recommended for early NPC detection using our test. If in doubt, please consult healthcare professionals for more information.",
+            "do_you_have": "Want to know more about your potential health risks? Get tested now!",
+            "action": "Act now!",
+            "covid_notice": "From the day of receipt of samples, under normal circumstances, the analysis can be completed in about 3-7 working days",
+            "detail2": "The Take2 Prophecy™ Test for NPC is suitable for individuals who intend to do routine check-ups, who are asymptomatic and with suspected symptoms.",
+            "subTitle": "Act Now and Stay Vigilant against NPC",
+            "subDetail1": "NPC is one of the common cancers in HK<1>3</1>; it is the top cancer for men aged 20-44<1>4</1>",
+            "subDetail2": "Early NPC symptoms resemble flu and are difficult to distinguish (Some of the common symptoms include headaches, nasal blockage, tinnitus, etc.)",
+            "subDetail3": "<1>Perform regular NPC screening</1> to catch the changes in your body before symptoms appear to allow timely treatment and interventions, thus increasing the chances to cure",
+            "feature": "Key Features of Take2 Prophecy™ Test for NPC:",
+            "compass1": "Utilising Next-generation Sequencing technology",
+            "compass2": "Achieving sensitivity > 97%<1>1,2</1> with a remarkably low false positive rate  (0.7%<1>2</1>)",
+            "compass3": "Being clinically proven by thousands of individuals<1>1</1>, the results have been published in international medical journals",
+            "compass4": "Blood-drawing only, non-invasive, and minimal risk",
+            "compass5": "Results will be ready soonest in 3 working days",
+            "compass6": "Developed by local university leading research team",
+            "tableTitle": "Take2 Prophecy™ Test for NPC outperforms other similar tests:",
+            "tableBottom": "NPC could be cured by detecting early! The survival rate of early-stage NPC patients could be higher than 90%<1>1</1>",
+            "do_you_have_npc": "Get tested to understand your risk of having NPC. Act now!"
+        },
+        "cancer_screen_package": {
+            "detail": "Covers our top-selling Take2 Prophecy™ Test for Nasopharyngeal Cancer (NPC); and tests for the cancer markers of common cancers in Hong Kong (e.g. colorectal, pancreatic, liver, prostate, breast and ovarian cancer). ",
+            "subtitle": "help you to detect the risks of cancer early",
+            "sub_detail1": "Cancer is the leading cause of death globally<1>1</1> and the top killer in Hong Kong for decades, with a rising trend in its incidence<1>2</1>",
+            "sub_detail2": "Not all cancers can be prevented",
+            "subdetail3": "The best way to tackle it is to perform regular cancer screening in order to detect any changes in the body",
+            "attention": "Disclaimer: Test items other than the Take2 Prophecy™ Test for NPC are performed by Take2 Health's partnering laboratory and medical organisations.",
+            "subdetail4": "Detecting cancers early might bring better treatment outcomes",
+            "detail2": "This non-invasive Cancer Screening Package is suitable for all ages, including individuals who intend to do routine check-ups, who are asymptomatic, and those with relevant family history.",
+            "subtitle0": "Conduct a comprehensive cancer screening",
+            "pachages": "This comprehensive Cancer Screening Package offered by Take2 Health",
+            "pachages2": " covers the detection of multiple cancer markers for the common cancers in Hong Kong, including:",
+            "contact": "If in doubt, please consult healthcare professionals for more information.",
+            "compass2": "AFP (Liver cancer marker)",
+            "compass3": "CA19.9 (Pancreatic cancer marker)",
+            "compass4": "CA125 (Ovarian cancer marker)",
+            "compass5": "CA15.3 (Breast cancer marker)",
+            "compass6": "PSA, TOTAL (Prostate cancer marker)",
+            "only_to_woman": "for women only",
+            "only_to_man": "for men only",
+            "compass1": "NPC-associated EBV DNA (Take2 Prophecy™ Test for NPC)"
+        },
+        "health_check": {
+            "title_intro": "The health check packages cover more than 30 investigation items, including the Take2 Prophecy™ Test for NPC, other cancer screenings, CBC, liver function, renal function, diabetes screening, blood lipids, thyroid assessment, cardiovascular function assessment, and chest and lung assessment. The report will be interpreted by a registered physician, promising you professional and reliable care.",
+            "sub_title_intro": "Taking Action Early to Ward Off Disasters Later, Prevention is Better than Cure.",
+            "box1": {
+                "intro": "Regular health checks help us monitor the changes in our physical conditions and identify potential diseases well before complications develop; in particular, chronic diseases such as hypertension and diabetes have shown a trend of occurring at a younger age than before.",
+                "title": "Identify disease at its early stage"
+            },
+            "box2": {
+                "intro": "Based on a patient with monthly income of HK $50,000, taking into account the treatment expenses and income loss of the patient, having cancer diagnosed at its early stage could result in a possible saving of over HK $300,000.<1>1</1>",
+                "title": "Save your healthcare expenses"
+            },
+            "box3": {
+                "intro": "We can gain further health insights from the results of regular health checks. Thus, we can modify our living habits, which lowers the risks of developing potentially lethal diseases, such as heart attack and stroke.",
+                "title": "Reduce risks of potentially lethal diseases, e.g., heart attack and stroke"
+            },
+            "box_conclusion": "Serious health problems might not present with noticeable symptoms in their early stages. \nRegular health checks help us monitor the changes in our physical conditions and identify potential diseases well before complications develop",
+            "table_title": "Standard and Comprehensive Health Check Packages cover more than 30 investigation items, including:",
+            "table_mark": "Disclaimer: Test items other than the Take2 Prophecy™ Test for NPC are performed by Trinity Medical Centre and their partnering laboratory.",
+            "table_conclusion": "Many of us visit a doctor only when we feel unwell. Yet, prevention is always better than cure, we shall avoid getting sick in the first place. In fact, in many cases, serious health problems such as hypertension, diabetes mellitus and even cancers are asymptomatic at the early stages.",
+            "table_conclusion2": "Take care of your body - It's the only place you have to live",
+            "step1": "Pre-consultation",
+            "step2": "Conduct health check",
+            "step3": "Test performed at local laboratories",
+            "step4": "Reports will be ready in around 7-10 working days",
+            "notice": "Patients who have had organ transplant, currently have cancer or autoimmune diseases, or those currently receiving systemic glucocorticoid or immunosuppressive treatment are not recommended for early NPC detection using our test. If in doubt, please consult healthcare professionals for more information.",
+            "notice2": "Under most circumstances, reports will be ready in around 7-10 working days (excluding Saturday, Sunday, and public holidays). A delay in processing some report interpretation requests might happen due to the following: 1. some individual items might require longer processing time 2. customers request to arrange specific timeslots. Please contact Trinity Medical Centre for any inquiries.",
+            "ref": "Source: “Early screening for nasopharyngeal cancer could reduce the family by up to six-digits total expenses and losses”, Sunday Kiss, 6 December 2021 (Translated)",
+            "check_step": "Test Procedures",
+            "reference": "References"
+        },
+        "take2_clarity": {
+            "subtitle": "<1>For nasopharyngeal cancer (NPC) patients who received or completed their treatments</1>, please consult your doctor for more details.",
+            "subtitle2": "Better prediction of NPC recurrence is crucial to both patients and doctors. The Take2 Clarity™ Test utilises the Next-generation Sequencing (NGS) analysis that allows a more comprehensive, unbiased detection and quantitation of plasma EBV DNA. Through blood drawing, it provides robust and clinically proven assay performance in the prognostication of NPC patients after treatment.",
+            "box_title": "Take2 Clarity™ allows better recurrence prediction with technological breakthrough",
+            "box1": {
+                "title": "Limitation of conventional EBV DNA Tests",
+                "intro": "<1>Low sensitivity for prediction of NPC recurrence.\nUp to 40% of NPC patients</1> who would later develop disease recurrence had unpredictable post-treatment plasma EBV DNA in tests based on qPCR technology¹."
+            },
+            "box2": {
+                "title": "#1 Advantage of Take2 Clarity™",
+                "intro": "The use of the Next-generation Sequencing (NGS) approach allows the detection of entire EBV DNA genome, which leads to a more comprehensive and unbiased detection of plasma EBV DNA molecules. <1>This provides better sensitivity for identifying patients with increased risk of recurrence.</1>"
+            },
+            "box3": {
+                "title": "#2 Advantage of Take2 Clarity™",
+                "intro": "Among patients with undetectable EBV DNA by qPCR approach, <1>NGS approach could further identify subgroups with different 5-year progress-free survival (PFS)</1>. This provides more accurate information for patients and doctors’ references. Through appropriate treatment follow-ups, patients could enjoy <1>better survival outcomes</1>."
+            },
+            "table_title": "Comparison of Take2 Clarity™ and other qPCR-based EBV DNA tests",
+            "downland": "Download Take2 Clarity™ Product Leaflet",
+            "table_intro": "<1>For nasopharyngeal cancer (NPC) patients who received or completed their treatments</1>, please consult your doctor for more details.",
+            "tel": "General enquiry",
+            "downland_mobile": "Download Product Leaflet"
+        }
+    },
+    "about_us": {
+        "mission": {
+            "title": "Our Principles and Mission",
+            "team_title": "Founding Team",
+            "background_founder": "Our background and founders",
+            "team_founder_content": "Established by three internationally recognised and respected pathology professors from the renowned Chinese University of Hong in 2019, Take2 Health is an exemplary case of successful commercialisation of leading academic invention.Leveraging the founders’ proven 20-plus-year track records in Genomics and Diagnostics research, we, an enterprise built from Hong Kong, are providing the Take2 Prophecy™ Test for Nasopharyngeal Cancer as the pioneering product. With the aspiration to expand this service to a much wider community, we aim to radiate positive impacts to people’s lives across Asia.<br/><br/>Please click the link below for an article about Take2 Health, our three founders and our first product:<br/><1>https://www.businesswire.com/news/home/20190506005296/zh-HK/</1>",
+            "our_team": "Our team",
+            "our_team_content": "Building a team of brilliant talents from across the globe who stand behind the same vision, we grow stronger day by day to deliver what we envision, “We are proud to deliver positive impact and benefit the community at large by leveraging research achievements from leading scholars worldwide. Made up of young and enthusiastic visionaries, we are meticulous and innovative frontiersmen that believe in pushing boundaries and making things happen. In caring for human health, we will continue to be dedicated and looking for progressive health solutions that change lives.”",
+            "beliefs": {
+                "0": {
+                    "type": "Our Principles and Mission",
+                    "slogan": "At the frontier of biotechnology, we are dedicated to broadening the horizon of health with ground-breaking innovation.",
+                    "content": "In the era of disruptive technologies and rapidly evolving science, innovation and actionable insights are the keys to sustainable improvement in human health condition.\n\nAt Take2 Health, with a nexus of pioneering minds and technology vanguards, we are eager to provide practical information and harness the power of state-of-the-art technologies to mark the advent of a new generation of healthcare across Asia.\n\nWe firmly believe that knowledge and experience are essential to lead to the well-being of individuals, allowing people to live their lives to the fullest."
+                },
+                "1": {
+                    "type": "Our Mission",
+                    "slogan": "Be the apex for cancer detection that moves people forward with awareness and confidence, through realising the advantages of early cancer detection.",
+                    "content": "Regardless of our age, sex or background, we can never be fully prepared for cancer, which often comes as a bolt out of the blue. \n\nThe power of knowledge is the foundation of our actions, especially\nwhen tackling the uncertainties of cancer. Only if we detect cancer earlier will the uphill battle be overcome much easier.\n\nWith our cutting-edge technologies and knowledgeable professionals, we are dedicated to promoting early cancer detection with actionable insights that could empower people with advantages to surmount the odds of cancer. Early cancer detection allows early interventions and treatments. As such, chances of successful treatment and survival rate could be greatly increased. We are dedicated to helping people realise the importance of taking back the control of their health and live life to its fullest."
+                }
+            }
+        },
+        "join_us": {
+            "title": "Join Us",
+            "detail": "As a forward-thinking startup, we hope to join hands with professionals from biotechnology and many other industries to empower more and more communities and affect the world through positive change.<br /><br />Join us in boldly taking on the challenges of health today and advance the world of tomorrow!",
+            "open_positions": "Job Vacancies ({{count}})",
+            "form_detail": "Cannot find any position you match with?<br/> Leave your contact and learn the upcoming vacant positions from us:"
+        }
+    },
+    "international": {
+        "title": "Beyond the Boundaries",
+        "detail": "Connected within the Greater Bay Area, we harness the power of early cancer detection and aim to serve the broader community around the globe. Bringing together the meticulous services from healthcare practitioners in different regions, we are dedicated to creating an extensive network that delivers accessible healthcare services and spreads the impact.",
+        "our_partners": "Our Partners",
+        "become_a_partner": "Be our Partner",
+        "become_a_partner_content": "Interested in promoting early NPC detection through cutting-edge technologies with us? Please complete the fields below and we will be in touch."
+    },
+    "contact_us": {
+        "title": "We are always happy to hear from you. Please feel free to contact us at:",
+        "form_title": "Send us an enquiry or provide feedback",
+        "types": {
+            "0": "Customer Hotline",
+            "1": "General Enquiries",
+            "2": "Public Relations and Communications",
+            "3": "Business Partnerships"
+        }
+    },
+    "menu": {
+        "whats_new": "Latest News and Promotions",
+        "promotions": "Latest Promotions",
+        "health_tips": "Health Tips",
+        "updates": "Latest News",
+        "our_technologies": "Our Technologies",
+        "early_cancer_detection": "Why Early NPC Detection is Vital",
+        "ngs": "What is NGS?",
+        "clinical_papers": "Relevant Studies and Literature",
+        "products_and_services": "Products and Services",
+        "take2_prophecy": "Take2 Prophecy™ Test for NPC",
+        "take2_extra_care": "Membership Program",
+        "service_location": "Service Locations – Hong Kong",
+        "international": "Business Cooperation",
+        "about_us": "About us",
+        "mission": "Our Mission",
+        "join_us": "Join Us",
+        "contact_us": "Contact Us",
+        "faq": "FAQ",
+        "cancer_screen_package": "Cancer Screening Package",
+        "health_check_package": "Standard / Comprehensive Health Check Packages",
+        "take2_clarity": "Take2 Clarity™ Test for NPC Monitoring"
+    },
+    "htag": {
+        "homePage": "Get Tested With Early NPC Regularly",
+        "contactUs": "Contact Us",
+        "take2_extra_care": "Take2 Extra Care Membership Program"
+    }
+}

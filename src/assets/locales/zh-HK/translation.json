@@ -1,0 +1,486 @@
+{
+    "whats_new": {
+        "promotions": {
+            "title": "最新推廣優惠",
+            "detail": "我們與不同夥伴合作，推出各項優惠，讓你以更優惠的價錢進行體檢及享用多元化的健康服務。"
+        },
+        "health_tips": {
+            "title": "健康資訊 為你更新",
+            "detail": "為了守護你和家人的健康，我們將持續為你提供實用的資訊，緊貼你的健康需要。"
+        }
+    },
+    "service_location": {
+        "title": "本港篩查服務點",
+        "more": "更多服務覆蓋點"
+    },
+    "homepage": {
+        "sign_up": {
+            "title": "立即登記 線上專業諮詢",
+            "detail": "只需輸入簡單資料，你就可以接收最新健康資訊、活動推廣及優惠，並可享用線上醫療諮詢及預約測試服務。"
+        }
+    },
+    "common": {
+        "sign_up": "立即登記",
+        "learn_more": "了解更多",
+        "view_more": "瀏覽更多",
+        "view_details": "查看詳情",
+        "book_now": "立即預約",
+        "display": "顯示",
+        "submit": "提交",
+        "sign_up_as_menber": "登記成為會員",
+        "or": "或",
+        "book_detection": "預約篩查",
+        "service_location": "篩查服務點",
+        "notice": "注意事項",
+        "sign_in": "登入",
+        "faq": "常見問題",
+        "register": "登記",
+        "follow_us": "關注我們",
+        "take2_copy_right": "Take2 Health 版權所有",
+        "online_promotion_code": "網上預約<br/>優惠碼",
+        "member_registration": "會員登記",
+        "take2_health": "得意健康",
+        "release_date": "發布日期",
+        "more": "更多{{field}}"
+    },
+    "t_and_c": {
+        "terms_and_conditions": "條款及細則",
+        "privacy_policy": "私隱政策",
+        "personal_information_collection_statement": "個人資料收集聲明",
+        "website_terms_of_use": "網站使用條款"
+    },
+    "status": {
+        "copy": {
+            "success": "成功複製文章鏈接！"
+        },
+        "request": {
+            "empty_data": "暫時沒有常見問題數據"
+        },
+        "submit": {
+            "fail": "提交失敗",
+            "success": "已成功提交"
+        }
+    },
+    "form": {
+        "placeholder": {
+            "search": "搜尋",
+            "select": "請選擇{{field}}",
+            "enter": "請輸入{{field}}"
+        },
+        "region": {
+            "label": "地區",
+            "options": {
+                "all": "所有地區",
+                "other": "其他地區",
+                "hongkong": "香港"
+            }
+        },
+        "gender": {
+            "label": "性別"
+        },
+        "age": {
+            "label": "年齡"
+        },
+        "email": {
+            "label": "電郵"
+        },
+        "phone": {
+            "label": "電話號碼",
+            "placeholder": "9876 5432"
+        },
+        "contact": {
+            "label": "聯絡人姓名"
+        },
+        "company": {
+            "label": "公司名稱/姓名"
+        },
+        "message": {
+            "label": "訊息",
+            "placeholder": "請輸入你的訊息",
+            "validation": {
+                "required": "*必填資料"
+            }
+        },
+        "validation": {
+            "correct_form": "請輸入正確格式{{field}}",
+            "check_agreement": "請勾選同意",
+            "finish_quiz": "請完成測驗"
+        }
+    },
+    "quiz": {
+        "pre": "返回上一题",
+        "next": "下一题",
+        "start": {
+            "button": "開始免費測驗",
+            "title": "免費測驗 了解健康",
+            "detail": "來個簡單測驗，人生可能從此變得不一樣。<1></1>雖然早期鼻咽癌病徵不明顯，但總有迹可尋。倘若晚期才確診，5年內存活率有機會跌至70%以下。以下簡單問題經專業人士設定，讓你了解有關鼻咽癌的徵狀。",
+            "reference": "分析僅屬參考性質。<br/>引致鼻咽癌的成因有很多，而且徵狀因人而異，詳情請向醫護人員查詢或與我們的專業醫護團隊聯絡。"
+        },
+        "last": {
+            "title": "最後一個步驟 免費獲取結果!",
+            "detail": "請即輸入你的資料，以透過電郵獲取測驗結果；或與線上註冊護士聯絡，以諮詢服務或產品查詢！你亦可直接登記，免費成為Take2 ExtraCare會員。"
+        },
+        "agreement": "本人已明白及同意Take2 Health Limited的網站於take2health.net之網站<1>私隱政策</1>及<1>個人資料收集聲明</1>。",
+        "direct_sign_up": "直接登記為 Take2 Extra Care會員",
+        "final": {
+            "title": "多謝參與！",
+            "subtitle": "你已完成了測驗！",
+            "detail_1": "以上問題均與鼻咽癌息息相關，若你持續出現上述病徵，建議你儘快向醫生查詢。",
+            "detail_2": "立即登記，免費成為Take2 Extra Care會員，以優惠價預約進行檢測，並享用Take2 Health 得易健康服務平台的各項服務。"
+        },
+        "questions": {
+            "0": "家族成員曾否患上鼻咽癌？",
+            "1": "你有否經常出現鼻水帶血或流鼻血情況？",
+            "2": "你有否出現頸部淋巴脹大？",
+            "3": "你有否經常出現頭痛或單側頭痛？",
+            "4": "你有否經常受耳鳴困擾？",
+            "5": "你有否經常吸煙？"
+        }
+    },
+    "options": {
+        "gender": {
+            "male": "男性",
+            "female": "女性"
+        },
+        "quiz": {
+            "no": "沒有",
+            "unclear": "不確定",
+            "yes": "有",
+            "never": "從不",
+            "rarely": "很少",
+            "sometimes": "間中",
+            "often": "經常"
+        },
+        "age": {
+            "20_or_below": "20或以下",
+            "61_or_above": "61或以上"
+        },
+        "career_regions": {
+            "all": "所有地區",
+            "mainland_china": "中國內地",
+            "hongkong_special_administrative_region": "香港特別行政區"
+        },
+        "department": {
+            "all": "所有部門",
+            "business_strategic_cooperation": "商業戰略合作"
+        },
+        "macao_regions": {
+            "macao": "澳門"
+        },
+        "post_types": {
+            "all_updates": "所有最新動態",
+            "business_cooperation": "商業合作",
+            "ceo_sharing": "行政總裁分享",
+            "company_awards_and_achievements": "公司獎項與成就",
+            "company_trends": "公司動向",
+            "industry_information": "行業資訊",
+            "health_tip": "健康資訊",
+            "professional_healthcare_tip": "專業醫護資訊"
+        },
+        "regions": {
+            "all": "所有地區",
+            "hongkong": "香港",
+            "kowloon": "九龍",
+            "new_territories_east": "新界東",
+            "new_territories_west": "新界西",
+            "macao": "澳門",
+            "kowloon_west": "九龍西",
+            "kowloon_central": "九龍中",
+            "kowloon_east": "九龍東",
+            "west_of_hongkong_island": "香港島西",
+            "east_of_hongkong_island": "香港島東",
+            "new_territories_north": "新界北",
+            "southeast_new_territories": "新界東南",
+            "northwest_new_territories": "新界西北",
+            "northeast_new_territories": "新界東北",
+            "southwest_new_territories": "新界西南",
+            "other": "其他地區"
+        },
+        "faq_types": {
+            "all": "所有問題",
+            "detection_service": "篩查服務",
+            "detection_technology": "篩查技術",
+            "price_and_service": "價錢及服務點",
+            "book_online_and_pay_process": "網上預約及付款流程",
+            "notes_and_result": "測試需知及結果",
+            "about_npc": "有關鼻咽癌",
+            "membership_program": "Take2 Extra Care會員計劃",
+            "privacy_and_electronic_records": "私隱及電子紀錄"
+        }
+    },
+    "our_technologies": {
+        "clinical_papers": {
+            "title": "相關研究報告",
+            "detail": "Take2 Prophecy™ 早期鼻咽癌篩查所使用的技術是由屢獲殊榮的香港中文大學頂尖基因研究團隊發明。團隊曾以該技術為2萬名人士進行鼻咽癌篩查，其臨床研究結果分別於《新英格蘭醫學雜誌》以及《美國國家科學院院刊》刊登，有關詳情請瀏覽以下刊物："
+        },
+        "ngs": {
+            "title": "了解NGS技術",
+            "what_is_ngs": "甚麼是NGS?",
+            "intro": "NGS全名為 Next-generation Sequencing(中文即次世代測序技術)。NGS利用高通量和大規模平行測序，與過往第一代測序技術(即Sanger測序，每次只能針對一條DNA片段進行測序)相比，能讓結果維持在高準確性的同時，大幅提升整體測序的效率和降低所需成本，實在是一大突破。<br/><br/>從整體處理效率而言，NGS測序通量較高(即能同時為數百到數千個基因或基因區域進行分析)，在提升測試速度的同時，大幅降低測序成本，以完成一個人類基因組的測序為例，所需時間從過往10年大幅縮短至只需1天時間，測序成本亦可從約30億美元大幅降至約1000美元。此外，NGS還可以透過「深度測序」，以更高靈敏度來檢測基因組目標區域的多個新型或罕見變異。因此，NGS能夠做到第一代測序技術無法提供的多重分析，例如進行大規模全基因組測序(Whole Genome Sequencing) 來分析完整的人類基因，或利用轉錄體定序(Transcriptome Sequencing) 進行 mRNA、miRNA 表現量分析、RNAsplicing 研究等。<br/><br/>有了NGS的超高通量、可擴展性和速度，在生物資訊學與基因數據相結合下，研究人員就能以前所未有的水準來開展生物系統研究，為疾病研究和群體基因組學研究提供有價值的資訊；在臨床應用方面，還能對癌症樣本進行測序，分析稀有體細胞變異及表觀遺傳學因素，以揭示疾病相關的等位基因。",
+            "notes": {
+                "0": {
+                    "title": "我們如何應用 NGS技術，以進行早期鼻咽癌篩查？",
+                    "content": "Take2 Prophecy™ 早期鼻咽癌篩查結合PCR及次世代DNA測序技術 (NGS: Next-generation Sequencing) 來檢測血漿中人類和EB病毒的DNA與鼻咽癌相關之特徵，並利用精密的演算法進行數據分析，即使患者未見明顯病徵，也能有效識別出早期鼻咽癌患者，讓其儘早得到治療，提高其治癒的可能性及存活率³。"
+                },
+                "1": {
+                    "title": "以組織活檢檢測鼻咽癌的局限",
+                    "content": "組織活檢為癌症臨床診斷的金標準，由受過專業訓練的醫生以鼻內視鏡抽取鼻腔組織，再進行細胞分析。這類方法具入侵性，不易用於所有身體部位；加上腫瘤細胞會隨著時間變化，而組織活檢只能代表檢測當下取得的腫瘤細胞的情況，故僅能提供有限的腫瘤資料；再者，組織活檢不能頻繁、重覆地使用以監測疾病的進展；有凝血障礙的人士在抽取組織的過程中也有較高的出血風險。因此，組織活檢存在不同方面的缺陷。"
+                },
+                "2": {
+                    "title": "傳統EB病毒檢測難以準確檢測出鼻咽癌",
+                    "content": "除了透過鼻內視鏡進行組織活檢外，抽血驗EB病毒 (Epstein-Barr Virus) 也是常見的鼻咽癌檢測手段，因為鼻咽癌與EB病毒關係非常密切。兩種最常用的檢測方法包括血清學檢測和通過定量PCR測量血漿中的EB病毒DNA數值，然而EB病毒感染非常普遍，病毒或抗體的存在可能僅代表短暫感染，並不一定代表患有鼻咽癌，所以兩種方法都難以區分僅感染EB病毒的人和實際患有鼻咽癌的人。"
+                }
+            },
+            "read_full_article": "(閱讀全文）"
+        },
+        "early_cancer_detection": {
+            "title": "認識早期鼻咽癌篩查",
+            "center_data": {
+                "0": "20-44 歲男士頭號癌症¹",
+                "1": "在女人當中較常發病於50-60歲的癌症（乳癌、子宮體癌等常見癌症亦然）²",
+                "2": "有別其他常見於較年長「銀齡族」（65-80歲之間）的癌症如大腸癌和肝癌³，逾8成鼻咽癌患者年齡普遍見於較年輕的「金齡族」（50至65歲之間）"
+            },
+            "references": {
+                "0": "<sup>1</sup><i>Overview of Hong Kong Cancer Statistics of 2018.</i> Hong Kong Hospital Authority, October 2020.",
+                "1": "<sup>2</sup><i>Hong Kong Cancer Registry.</i> Hong Kong Hospital Authority, www3.ha.org.hk/cancereg/. Accessed 23 May 2021.",
+                "2": "<sup>3</sup>認識癌症：鼻咽癌. Hong Kong Cancer Fund, 2021, www.cancer-fund.org/wp-content/uploads/2021/03/NPC-20C-Revamp-Web_s.pdf."
+            },
+            "do_you_know": "你知道嗎？",
+            "do_you_know_content": "其實任何年紀的人都有可能患上鼻咽癌！",
+            "center_data_title": "根據香港癌症資料統計中心數據顯示，鼻咽癌是：",
+            "content_data_detail": "許多人聞癌色變，但只要定期進行早期鼻咽癌篩查，及時了解自己的身體狀況，即使確診也能儘早接受治療，增加治癒機會，繼續享受美好人生。",
+            "whats_is_early_cancer_detection": "甚麼是早期鼻咽癌篩查？",
+            "whats_is_early_cancer_detection_content": "在醫學中，篩查是一種用於尋找尚未發現的疾病的策略。受測者可能沒有徵狀或者只有輕微徵狀，而這些徵狀本身並不能用作確定診斷。受測者可以透過篩查去確定自己的身體狀況有沒有潛在風險，或會否在將來某個時候轉變為疾病，從而能夠及早干預和管理，以降低死亡率和患病所帶來的痛苦。篩查程序中使用的測試須具有良好的靈敏度及特異性，以減少出現誤診和因不準確的結果所帶來的焦慮不安。<br/><br/>早期鼻咽癌篩查一般適用於還沒有或病徵不明顯的人群。篩查過程簡單，只需抽血，屬無創方式，配合嶄新的次世代DNA測序技術(Next-generationSequencing)，來分析血漿中是否帶有鼻咽癌特徵的DNA，從而有效找出早期鼻咽癌患者，有助病人於患病早期確診並接受治療，增加治癒機會及減少治療帶來的副作用。",
+            "reason_title": "及早進行早期鼻咽癌篩查的三大原因",
+            "reasons": {
+                "0": {
+                    "content": "鼻咽位置較「隱蔽」，難以被察覺，部分徵狀容易與感冒或炎症混淆",
+                    "title": "鼻咽癌不易察覺"
+                },
+                "1": {
+                    "content": "目前尚無疫苗預防鼻咽癌",
+                    "title": "鼻咽癌不能預防"
+                },
+                "2": {
+                    "content": "目前並未有專門針對鼻咽癌的治療和特效藥（根據癌症不同期數，電療和化療為主要治療方式）",
+                    "title": "沒有特效藥"
+                }
+            },
+            "expect": "我們期望透過推廣早期癌症篩查，建立市民的健康意識，提升大眾對癌症、檢測技術、個人健康管理的認知，並致力推動醫學創新研究，讓患者更有效進行健康管理，從而自信地活出精彩人生。"
+        }
+    },
+    "products_and_services": {
+        "take2_extra_care": {
+            "title": "Take2 Prophecy™ 早期鼻咽癌篩查",
+            "steps": {
+                "0": "進行Take2 Prophecy™ 早期鼻咽癌篩查服務",
+                "1": "於篩查服務點填寫表格",
+                "2": "直接於Take2 Health得易健康服務平台登記成為會員"
+            },
+            "what_is_extra_care": "甚麼是Take2 Extra Care會員計劃？",
+            "what_is_extra_care_content": "這是一項由專業醫護人員團隊制訂的全面健康管理計劃，任何人士均可登記成爲會員。",
+            "how_to_join_extra_care": "如何參加Take2 Extra Care計劃？",
+            "benefit_of_extra_care": "參加Take2 Extra Care會員計劃有甚麼好處？",
+            "benefit_of_extra_care_content": "免費成為永久會員，享用Take2 Extra Care會員計劃轄下一切服務，包括即時查詢、健康資訊、獨家優惠和年度篩查提醒等。<br/><1></1>長遠而言，透過參加Take2 Extra Care會員計劃，你可更有效運用健康管理所需時間及金錢，透過現今科技和醫療專業意見協助你更早為健康做好準備。",
+            "club_plans": {
+                "0": "即時查詢",
+                "1": "獨家優惠",
+                "2": "健康資訊",
+                "3": "年度篩查提醒"
+            },
+            "faq": {
+                "welcome_contact": "如有其他問題，歡迎向我們查詢："
+            }
+        },
+        "take2_prophecy": {
+            "title": "Take2 Prophecy™ 早期鼻咽癌篩查",
+            "detail": "Take2 Prophecy™ 早期鼻咽癌篩查是一項採用次世代DNA測序技術的無創早期鼻咽癌篩查， 靈敏度 > 97% <1>1,2</1>，假陽性率低至0.7% <1>2</1>，經臨床實證，結果準確可靠；只須抽血即有效識別出早期鼻咽癌患者，冠絕同類測試。",
+            "detection_process": "篩查流程",
+            "process": {
+                "0": "醫生初步評估",
+                "1": "採集血液樣本",
+                "2": "在本港實驗室\n進行分析",
+                "3": "3-7個工作天內有\n篩查結果",
+                "4": "醫生為病人講解報告"
+            },
+            "reports": {
+                "0": {
+                    "result": "結果為陽性*",
+                    "suggestion": "諮詢耳鼻喉科專家",
+                    "mark": "*陽性： 檢測到血漿中存在「人類和EB病毒的DNA與鼻咽癌相關之特徵」，詳情請向醫護人員查詢。"
+                },
+                "1": {
+                    "result": "結果為陰性**",
+                    "suggestion": "進行年度檢查",
+                    "mark": "**陰性： 檢測不到血漿中存在「人類和EB病毒的DNA與鼻咽癌相關之特徵」，詳情請向醫護人員查詢。"
+                }
+            },
+            "notice": "此篩查不建議已經進行器官移植人士、已患有其他癌症、自身免疫系統疾病、正接受全身性糖皮質激素及免疫抑制治療的人士使用，詳情請向醫護人員查詢。",
+            "do_you_have": "想了解自己的身體狀況和潛在健康風險？",
+            "action": "不要猶豫，立即行動！",
+            "covid_notice": "在血液樣本到達化驗室後起計，一般情況下，約3-7個工作日能完成分析",
+            "detail2": "適用群體包括常規體檢者、無徵狀人士及有疑似徵狀人士等。",
+            "subTitle": "現在開始提防鼻咽癌",
+            "subDetail1": "鼻咽癌是本港常見的癌症殺手之一<1>3</1>；及20-44歲男士的頭號癌症<1>4</1>",
+            "subDetail2": "病徵與一般傷風感冒相似，一般人難以分辨（部分常見徵狀包括頭痛、鼻塞、耳鳴等）",
+            "subDetail3": "<1>定期進行早期鼻咽癌篩查</1>，及時了解自己的身體狀況，即使確診也能儘早接受治療，增加治癒機會",
+            "feature": "Take2 Prophecy™ 早期鼻咽癌篩查特點：",
+            "compass1": "採用次世代DNA測序技術",
+            "compass2": "靈敏度 > 97%<1>1,2</1>，假陽性率極低 (0.7%<1>2</1>)",
+            "compass3": "經萬人臨床實證<1>1</1>，成果獲登上國際醫學期刊",
+            "compass4": "只須抽血，非入侵性的低風險篩查",
+            "compass5": "最快三個工作天有結果",
+            "compass6": "本地頂尖大學團隊研發",
+            "tableTitle": "Take2 Prophecy™ 早期鼻咽癌篩查表現遠勝其他同類測試：",
+            "tableBottom": "及早發現，早期鼻咽癌患者的存活率可高於九成<1>1</1>",
+            "do_you_have_npc": "想了解自己是否患上鼻咽癌？不要猶豫，立即預約！"
+        },
+        "cancer_screen_package": {
+            "detail": "涵蓋本港常見癌症—包括大腸、胰臟、肝臟、前列腺、乳房及卵巢之腫瘤指標，及靈敏度>97%的皇牌Take2 Prophecy™ 早期鼻咽癌篩查。",
+            "subtitle": "助你及早發現潛在健康風險",
+            "sub_detail1": "癌症是其中一個全球人類的主要死因<1>1</1>，也是本港多年來的頭號殺手，且發病率日趨上升<1>2</1>",
+            "sub_detail2": "大部份癌症仍未有確實的預防方法",
+            "subdetail3": "最佳的提防方法還是經常留意自己身體的任何變化和定期進行癌症篩查",
+            "attention": "聲明：Take2 Prophecy™ 早期鼻咽癌篩查以外的測試項目由與Take2 Health合作的實驗室和醫療機構提供。",
+            "subdetail4": "儘早於早期發現診斷及診治，才能大大增加患者治癒的機會",
+            "detail2": "此篩查乃非入侵性檢查；適合所有年齡人士，包括常規體檢者、無徵狀人士及有相關家族病史人士等。",
+            "subtitle0": "全面癌症篩查",
+            "pachages": "Take2 Health提供的癌症篩查套餐",
+            "pachages2": "涵蓋了多種本港常見癌症的腫瘤指標篩查，包括：",
+            "contact": "如有任何疑問，請向專業醫護人員查詢。",
+            "compass2": "AFP（肝臟腫瘤指標）",
+            "compass3": "CA19.9 （胰臟腫瘤指標）",
+            "compass4": "CA125 （卵巢腫瘤指標）",
+            "compass5": "CA15.3 （乳房腫瘤指標）",
+            "compass6": "PSA, TOTAL （總前列腺癌抗原指數）",
+            "only_to_woman": "只適用於女性",
+            "only_to_man": "只適用於男性",
+            "compass1": "Take2 Prophecy™ 早期鼻咽癌篩查"
+        },
+        "health_check": {
+            "title_intro": "體檢套餐涵蓋高逾30項精選身體檢查項目，套餐包括：Take2 Prophecy™ 早期鼻咽癌篩查、其他癌症篩查、血全像、肝腎功能、糖尿、血脂、甲狀腺、心臟功能及胸肺評估，由註冊醫生跟進解釋報告，專業可靠。",
+            "sub_title_intro": "及早發現潛在健康問題，防患於未然",
+            "box1": {
+                "intro": "尤其是高血壓、糖尿病等代謝相關的毛病在本港有年輕化趨勢， 定期身體檢查有助及早發現",
+                "title": "及時發現隱患"
+            },
+            "box2": {
+                "intro": "以月薪五萬港元的患者為例，早期和晚期鼻咽癌的治療費用及收入損失的差別估算可達30萬港元以上<1>1</1>",
+                "title": "減低醫療開支"
+            },
+            "box3": {
+                "intro": "根據身體檢查結果，調整生活習慣，有助減低將來將來患上心臟病和腦中風等致命疾病的風險",
+                "title": "減低患上心臟病和腦中風等致命疾病的風險"
+            },
+            "box_conclusion": "很多疾病在早期不一定有明顯的病徵，定期身體檢查有助我們了解身體狀況的變化",
+            "table_title": "基本及全面體檢套餐涵蓋高逾30項精選身體檢查項目，包括：",
+            "table_mark": "備註：Take2 Prophecy™ 早期鼻咽癌篩查以外的身體檢查項目由全仁醫務中心及其合作之實驗室提供。",
+            "table_conclusion": "很多人覺得自己「沒有不適」便無需接受任何身體檢查，但事實上不少致命疾病例如高血壓、糖尿病、甚至癌症等，於初期未必會引發「不適」。",
+            "table_conclusion2": "年年驗身，令你放心。",
+            "step1": "初步健康評估",
+            "step2": "進行身體檢查",
+            "step3": "在實驗室進行分析",
+            "step4": "大概7-10個工作天跟進報告",
+            "notice": "Take2 Prophecy™早期鼻咽癌篩查不建議已經進行器官移植人士、已患有其他癌症、自身免疫系統疾病、正接受全身性糖皮質激素及免疫抑制治療的人士使用，詳情請向醫護人員查詢。",
+            "notice2": "一般情況下，需大概7-10個工作天跟進檢查報告， 工作天不包括星期六、日及公眾假期。 輪侯報告講解時間會因應不同情況（如個別化驗項目所需時間或客人指明特定時段）而有所延長。如有任何疑問，請向全仁醫務中心查詢。",
+            "ref": "資料來源：“及早進行早期鼻咽癌篩查 家庭整體開支及損失可減低達六位數字”, Sunday Kiss, 6 December 2021",
+            "check_step": "檢查流程" ,
+            "reference": "參考資料"
+        },
+        "take2_clarity": {
+            "subtitle": "此檢測適用於<1>接受或已完成治療的鼻咽癌患者</1>，詳情請向您的主診醫生查詢。",
+            "subtitle2": "準確的風險評估對鼻咽癌患者及其主診醫生至關重要。Take2 Clarity™ 鼻咽癌復發風險檢測，只須抽血，配合次世代DNA測序技術(NGS)的極高靈敏度，可比傳統的「EB 病毒DNA定量測試」更全面、更精確地進行檢測和分析血漿中的 EB病毒 DNA含量，為患者提供強大且經臨床實證的預後評估表現。",
+            "box_title": "Take2 Clarity™ 以突破性技術為患者及醫護人員帶來更準確分析",
+            "box1": {
+                "title": "傳統「EB 病毒DNA定量測試」的局限",
+                "intro": "<1>預測鼻咽癌復發風險的靈敏度較低。高達40%出現復發的鼻咽癌患者</1>未能透過上述測試 (基於qPCR技術) 檢驗出血漿中的EB病毒DNA¹。"
+            },
+            "box2": {
+                "title": "Take2 Clarity™ 優點1",
+                "intro": "採用嶄新次世代DNA測序技術(NGS)，透過檢驗EB病毒的全基因組，能<1>提高檢測EB病毒DNA分子的靈敏度，助患者更準確預估鼻咽癌復發風險</1>。"
+            },
+            "box3": {
+                "title": "Take2 Clarity™ 優點2",
+                "intro": "NGS技術能在被qPCR分析評為「陰性」的患者組別中，<1>把患者進一步細分，並更精準預測五年疾病無惡化存活期，</1>更準確的數據有助醫生制定合適的治療跟進方案，從而令患者獲得<1>更佳的生存結果</1>。"
+            },
+            "table_title": "Take2 Clarity™ 和其他採用qPCR的EB 病毒DNA定量測試比較",
+            "downland": "下載Take2 Clarity™ 鼻咽癌復發風險檢測產品詳情",
+            "table_intro": "Take2 Clarity™ 鼻咽癌復發風險檢測<1>只適用於接受或已完成治療的鼻咽癌患者</1>。如需選用，請向您的主診醫生查詢詳情。",
+            "tel": "電話",
+            "downland_mobile": "下載產品詳情"
+        }
+    },
+    "about_us": {
+        "mission": {
+            "title": "企業與品牌信念",
+            "team_title": "工作團隊",
+            "background_founder": "背景及創辦人",
+            "team_founder_content": "得易健康奠基於亞洲頂尖大學的科研成果，是將一流學術成果轉化為商業應用並發揚光大的一所典範企業。我們的創辦人是來自香港中文大學醫學院化學病理學系的三位教授，二十多年來紮根香港、影響世界，在基因及疾病檢測領域深耕研究、成果豐碩。2019年，教授團隊正式創建得易健康，並宣佈公司首項工作為開發早期鼻咽癌檢測產品，以此為公司的根基，謀求未來更多的發展和貢獻社會的機會。<br/><br/>有關三位教授創辦得易健康並發佈公司首項產品的資訊，請參閱以下新聞連結：<br/><1>https://www.businesswire.com/news/home/20190506005296/zh-HK/</1>",
+            "our_team": "我們的團隊",
+            "our_team_content": "得易健康的工作團隊來自世界不同地方，團結於公司的使命，並日益壯大成長。對於公司未來發展方向，工作團隊表示︰「能夠將世界一流學者的研究成果付諸民生應用、影響社會，我們深感自豪。我們有理想、有活力、有朝氣，致力成為醫療界別的開拓者，秉持積極創新、一絲不苟的理念和風格，勇於嘗試、突破傳統醫學科技的界限，努力為人類健康帶來切實、根本的改變。」",
+            "beliefs": {
+                "0": {
+                    "type": "企業與品牌信念",
+                    "slogan": "我們旨在引領生物科技行業發展，改寫人類對健康的認知。",
+                    "content": "我們身處一個科學躍進、突破常規的時代；只有在科研和數碼領域力求創新，以實用的資訊持續改善人類的健康和生活，才能為世界帶來實在的改變。\n\n因此，我們引領卓越，聚集頂尖的人才和科技，組成專業團隊；捉緊機遇、釋放潛能，提供嶄新的科技和實用的資訊，確立世界對健康的看法和需求，引領亞洲邁向健康的新紀元。 \n\n與此同時，我們相信每個人都值得擁有健康無憂的人生，能透過學習、啟發和經驗，掌握健康，創造屬於自己的理想生活。 "
+                },
+                "1": {
+                    "type": "我們的使命",
+                    "slogan": "我們旨在成為癌症檢測的翹楚，協助及早驗出癌症，讓所有人都能自信地掌握自己的健康和生命。",
+                    "content": "不論年紀、性別、背景等等，任何人士一但罹患癌症，都會感到不知所措，猶如晴天霹靂一樣。\n\n倘若我們能夠及早發現癌症，便能克服未知，迎難而上。\n\n為此，我們借助高端科技和醫療人員的專業知識，致力提供早期癌症篩查服務，通過提供實用的資訊，助你了解早期癌症篩查及其重要性，讓你能「提防」患癌；即使不幸發現癌症，亦能及早進行治療，大大減低後期繁複、密集治療為生活帶來的影響，提高成功治癒的機會和存活率，繼續活出精彩人生。"
+                }
+            }
+        },
+        "join_us": {
+            "title": "加入我們",
+            "detail": "作為一家初創企業，我們期待與更多生物科技行業的專才，及各行業的專業人士合作，攜手帶領Take2 Health在本地及海外市場拓展，改寫人類健康。<br /><br />誠邀閣下加入我們團隊，成為我們一份子，一起為人類健康努力，共同發掘無限可能。",
+            "open_positions": "瀏覽現有空缺 ({{count}})",
+            "form_detail": "如現時未有合適空缺，歡迎留下聯絡方法，<br />第一時間獲取最新空缺資料："
+        }
+    },
+    "international": {
+        "title": "開拓邊界，引領改變",
+        "detail": "作為一家立足中國香港，連接大灣區，面向全球各地的醫療科技企業，我們致力於結合早期癌症篩查的力量及當地醫護人員的專業服務，打造便利大眾的服務網絡，將影響力帶到世界各地。",
+        "our_partners": "我們的合作夥伴",
+        "become_a_partner": "成為合作夥伴",
+        "become_a_partner_content": "如閣下期望與我們一起透過創新科技，推廣早期鼻咽癌篩查服務，歡迎填妥以下資料，我們將會儘快與你聯絡。"
+    },
+    "contact_us": {
+        "title": "如有任何意見或查詢，歡迎透過下列方式與我們聯繫",
+        "form_title": "提交意見或查詢",
+        "types": {
+            "0": "客戶服務專線",
+            "1": "一般查詢",
+            "2": "公關及傳訊",
+            "3": "商務合作"
+        }
+    },
+    "menu": {
+        "whats_new": "最新動態及推廣",
+        "promotions": "最新推廣優惠",
+        "health_tips": "健康及專業醫護資訊",
+        "updates": "最新動態",
+        "our_technologies": "革新技術",
+        "early_cancer_detection": "認識早期鼻咽癌篩查",
+        "ngs": "了解NGS技術",
+        "clinical_papers": "相關研究報告",
+        "products_and_services": "產品及服務",
+        "take2_prophecy": "Take2 Prophecy™ 早期鼻咽癌篩查",
+        "take2_extra_care": "Take2 Prophecy™ 會員計劃",
+        "service_location": "本港篩查服務點",
+        "international": "商業合作",
+        "about_us": "關於 Take2 Health",
+        "mission": "信念和使命",
+        "join_us": "加入我們",
+        "contact_us": "聯絡我們",
+        "faq": "常見問題",
+        "cancer_screen_package": "癌症篩查套餐",
+        "health_check_package": "基本 / 全面體檢套餐",
+        "take2_clarity": "Take2 Clarity™ 鼻咽癌復發風險檢測"
+    },
+    "htag": {
+        "homePage": "Take2 Health 早期鼻咽癌篩查",
+        "contactUs": "聯絡我們",
+        "take2_extra_care": "Take2 Prophecy™ 會員計劃"
+    }
+}
