@@ -12,6 +12,7 @@ detail: Hong Kong athletes continue to glow in international sports events. In t
   of the campaign’s hero video now!
 href: ''
 slug: athletes-program
+hide: true
 
 ---
 ![](../images/ehealth-banner-changed-03.jpg)

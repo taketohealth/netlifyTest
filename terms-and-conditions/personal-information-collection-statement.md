@@ -1,9 +1,10 @@
 ---
 title: Personal Information Collection Statement
 date: 2022-01-02T00:00:00.000+08:00
-slug: personal-information-collection-statement
 languages:
-  - en
+- en
+slug: personal-information-collection-statement
+
 ---
 Take2 Health Limited
 

@@ -10,6 +10,7 @@ detail: 香港运动员持续在国际舞台上发光发热，他们坚毅不屈
   Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！
 href: ''
 slug: athletes-program
+hide: true
 
 ---
 ![](../images/thumbnail-changed-05.jpg)
