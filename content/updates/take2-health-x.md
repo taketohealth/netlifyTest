@@ -10,6 +10,7 @@ detail: 香港運動員持續在國際舞台發光發熱，他們堅毅不屈的
   Health一起預早準「鼻」，迎接挑戰。現在讓我們立即解構這次拍攝的細節吧！
 href: ''
 slug: athletes-program
+hide: true
 
 ---
 ![](../images/thumbnail-changed-01.png)
