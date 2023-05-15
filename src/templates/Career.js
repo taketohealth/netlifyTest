@@ -73,7 +73,7 @@ const useStyles = makeStyles((theme) => ({
   },
   company: {
     marginBottom: theme.spacing(4),
-    // color: theme.palette.supporting.supporting03,
+    color: theme.palette.supporting.supporting03,
     [theme.breakpoints.down('xs')]: {
       fontSize: theme.typography.body2.fontSize,
     },

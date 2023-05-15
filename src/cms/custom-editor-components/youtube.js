@@ -17,7 +17,7 @@ const youtube = {
     },
   ],
   pattern:
-    /^<div class="youtube-root"><iframe title="(.*?)" width="100%" height="320" src="https:\/\/www.youtube.com\/embed\/(.*?)\?rel=0" id="(.*?)" loading="lazy" allowfullscreen sandbox="allow-same-origin allow-scripts allow-popups"><\/iframe><\/div>$/s,
+    /^<div class="youtube-root"><iframe title="(.*?)" width="100%" height="320" src="https:\/\/www.youtube.com\/embed\/(.*?)\?rel=0" loading="lazy" allowfullscreen sandbox="allow-same-origin allow-scripts allow-popups"><\/iframe><\/div>$/,
   fromBlock: (match) => {
     return {
       id: match[2],

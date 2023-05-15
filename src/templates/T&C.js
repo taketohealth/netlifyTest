@@ -3,9 +3,7 @@ import MdxLayout from '@layouts/MdxLayout'
 import { graphql } from 'gatsby'
 import { makeStyles, Typography, Container, Box } from '@material-ui/core'
 import { formatLocal } from '@utils/moment'
-import { SEO } from '@layouts/Seo'
 
-// import { StaticImage } from 'gatsby-plugin-image'
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -49,6 +47,7 @@ const useStyles = makeStyles((theme) => ({
 
 export const TAndCTemplate = ({ date, title, children }) => {
   const classes = useStyles()
+
   return (
     <Box className={classes.root}>
       <Container disableGutters maxWidth='xl'>
@@ -74,25 +73,13 @@ export const TAndCTemplate = ({ date, title, children }) => {
 }
 
 const TAndC = ({ data, children }) => {
-  // const { markdownRemark } = data;
-  // const { frontmatter, html } = markdownRemark;
-  // console.log(html, html)
   if (!data?.mdx) return null
+
   const { date, title } = data?.mdx?.frontmatter
   return (
     <TAndCTemplate date={date} title={title}>
       {children}
     </TAndCTemplate>
-    // <div className="blog-post-container">
-    //   <div className="blog-post">
-    //     <h1>{title}</h1>
-    //     <h2>{date}</h2>
-    //     <div
-    //       className="blog-post-content"
-    //       dangerouslySetInnerHTML={{ __html: html }}
-    //     />
-    //   </div>
-    // </div>
   )
 }
 
@@ -118,13 +105,3 @@ export const query = graphql`
     }
   }
 `
-
-export const Head = ({ pageContext, data }) => {
-  console.log(pageContext, 'pageContext')
-  if (!data?.mdx) return null
-  const { description, title } = data?.mdx?.frontmatter
-  console.log(description, title, 'description, title')
-  return <SEO pathname={ pageContext.i18n.originalPath } title={title} description={description} /> 
-}
-
-

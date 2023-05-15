@@ -12,24 +12,12 @@ const { languages, defaultLanguage } = require('./languages')
 
 const plugins_to_pick = [
   `gatsby-plugin-gatsby-cloud`,
-  // {
-  //   resolve: `gatsby-plugin-gatsby-cloud`,
-  //   options: {
-  //     headers: {
-  //       "/*": [
-  //         "meta: http-equiv:refresh content=`0; URL='/zh-HK/'`",
-  //       ],
-  //     },
-  //   }
-  // },
   {
     resolve: `gatsby-plugin-canonical-urls`,
     options: {
       siteUrl: `https://take2health.net`,
     },
   },
-  // TODO: Fix SSR FOUC
-  // https://github.com/hupe1980/gatsby-theme-material-ui/pull/8
   {
     resolve: `gatsby-plugin-material-ui`,
     options: {
@@ -39,8 +27,6 @@ const plugins_to_pick = [
   },
   `gatsby-plugin-smoothscroll`,
   'gatsby-plugin-image',
-  // 'gatsby-plugin-react-helmet',
-  // 'gatsby-plugin-sitemap',
   {
     resolve: 'gatsby-plugin-sitemap',
     options: {
@@ -200,18 +186,18 @@ const plugins_to_pick = [
   {
     resolve: 'gatsby-source-filesystem',
     options: {
-      name: 'cmsTest',
-      path: `${__dirname}/content/`,
+      name: 'campaignImages',
+      path: `${__dirname}/src/components/CampaignV2/images`,
     },
-    __key: 'cmsTest',
+    __key: 'campaignImages',
   },
   {
     resolve: 'gatsby-source-filesystem',
     options: {
-      name: 'docs',
-      path: `${__dirname}/docs/`,
+      name: 'content',
+      path: `${__dirname}/content/`,
     },
-    __key: 'docs',
+    __key: 'content',
   },
   {
     resolve: `gatsby-plugin-alias-imports`,
@@ -223,7 +209,7 @@ const plugins_to_pick = [
         '@images': 'src/assets/images',
         '@templates': 'src/templates',
         '@views': 'src/views',
-        '@content': 'cmsTest',
+        '@content': 'content',
         '@themes': 'src/themes',
         '@hooks': 'src/hooks',
         '@utils': 'src/utils',
