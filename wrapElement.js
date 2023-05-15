@@ -1,6 +1,6 @@
 import React from 'react'
 import './src/app.css'
-// import Layout from './src/layouts/Layout'
+import Layout from './src/layouts/Layout'
 import { ThemeProvider } from '@material-ui/core/styles'
 import getTheme from './src/themes'
 import CssBaseline from '@material-ui/core/CssBaseline'
@@ -19,7 +19,7 @@ const wrapPageElement = ({ element, props }) => {
     React.cloneElement(
       element.props.children, // I18nextContext.Provider
       element.props.children.props,
-      React.createElement(<div></div>, props, element.props.children.props.children)
+      React.createElement(Layout, props, element.props.children.props.children)
     )
   )
   return newElement

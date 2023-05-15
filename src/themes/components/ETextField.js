@@ -74,7 +74,7 @@ export const EInputBase = withStyles((theme) => ({
     fontSize: theme.typography.body2.fontSize,
     padding: theme.spacing(0.5, 1.5),
     transition: theme.transitions.create(['border-color', 'box-shadow']),
-    // color: theme.palette.supporting.supporting03,
+    color: theme.palette.supporting.supporting03,
     height: theme.spacing(7),
     '&:hover': {
       borderColor: theme.palette.primary.main,

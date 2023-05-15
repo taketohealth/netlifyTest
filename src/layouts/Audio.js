@@ -6,9 +6,11 @@ import {
   useMediaQuery,
   Typography,
 } from '@material-ui/core'
+import { MDX_MEDIA_MAXWIDTH } from '@utils/constant'
 
 const useStyles = makeStyles((theme) => ({
   root: {
+    maxWidth: MDX_MEDIA_MAXWIDTH,
     margin: '0 auto',
     marginBottom: theme.spacing(4),
   },

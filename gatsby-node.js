@@ -62,9 +62,9 @@ exports.onCreateNode = async ({ node, actions, getNode }) => {
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createRedirect, createPage } = actions
-
+  
   // createRedirect({ fromPath: "/*", toPath: "/zh-HK/*", isPermanent: true, statusCode: 300 })
-  createRedirect({ fromPath: '/', toPath: '/zh-HK/', isPermanent: true, redirectInBrowser: true })
+  createRedirect({ fromPath: "/", toPath: "/zh-HK/", isPermanent: true, redirectInBrowser: true })
 
   const careers = await graphql(`
     {
@@ -148,6 +148,42 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     }
 
     mdx?.frontmatter?.languages?.forEach((lang) => {
+      // if (lang === defaultLanguage) {
+      //   createPage({
+      //     path: `${path}`,
+      //     component,
+      //     context: {
+      //       slug: path,
+      //       sectionPath: mdx.parent.relativeDirectory,
+      //       regex: `/${mdx.parent.relativeDirectory}/`,
+      //       id: mdx.id,
+      //       contentFilePath: mdx.internal.contentFilePath,
+      //       curPath: `${path}`,
+      //     },
+      //     // defer,
+      //   })
+      //   createRedirect({
+      //         fromPath: `/${lang}${path}`,
+      //         // redirectInBrowser: true,
+      //         isPermanent: true,
+      //         toPath: path,
+      //   })
+      // }
+      // else {
+      //   createPage({
+      //     path: `/${lang}${path}`,
+      //     component,
+      //     context: {
+      //       slug: path,
+      //       sectionPath: mdx.parent.relativeDirectory,
+      //       regex: `/${mdx.parent.relativeDirectory}/`,
+      //       id: mdx.id,
+      //       contentFilePath: mdx.internal.contentFilePath,
+      //       curPath: `/${lang}${path}`,
+      //     },
+      //     // defer,
+      //   })
+      // }
 
       createPage({
         path: `/${lang}${path}`,
@@ -162,6 +198,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         },
         // defer,
       })
+      // if (lang === defaultLanguage)
+      //   createPage({
+      //     path,
+      //     component,
+      //     context: {
+      //       slug: path,
+      //       sectionPath: mdx.parent.relativeDirectory,
+      //       regex: `/${mdx.parent.relativeDirectory}/`,
+      //       id: mdx.id,
+      //       contentFilePath: mdx.internal.contentFilePath,
+      //       curPath: path,
+      //     },
+      //     // defer,
+      //   })
       if (lang === defaultLanguage)
         createRedirect({
           fromPath: path,
@@ -202,6 +252,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         context: {
           slug,
         },
+        defer: true,
       })
     })
   }
