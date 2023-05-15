@@ -14,14 +14,14 @@ media_folder: content/images
 public_folder: /static
 
 collections:
-  - name: 'docs'
-    label: 'Docs'
-    folder: 'docs'
-    create: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'docs'
+  #   label: 'Docs'
+  #   folder: 'docs'
+  #   create: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Publish Date', name: 'date', widget: 'date' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'terms-and-conditions'
     label: 'T&C'
     folder: 'content/terms-and-conditions'
