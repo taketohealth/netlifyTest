@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms-app'
+import HeroBannerPreview from './preview-templates/HeroBannerPreview'
 import TAndCPreview from './preview-templates/TAndCPreview'
 import PostPreview from './preview-templates/PostPreview'
 import CareerPreview from './preview-templates/CareerPreview'
@@ -12,6 +13,7 @@ CMS.registerEditorComponent(audio)
 CMS.registerEditorComponent(youtube)
 // Now the registry is available via the CMS object.
 // CMS.registerPreviewTemplate('docs', Layout(DocPreview))
+CMS.registerPreviewTemplate('hero-banners', Layout(HeroBannerPreview))
 CMS.registerPreviewTemplate('terms-and-conditions', Layout(TAndCPreview))
 CMS.registerPreviewTemplate('promotions', Layout(PostPreview))
 CMS.registerPreviewTemplate('health-tips', Layout(PostPreview))

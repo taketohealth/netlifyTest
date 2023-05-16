@@ -87,8 +87,8 @@ const useStyles = makeStyles((theme) => ({
   promoBannerBg: {
     background: `radial-gradient(circle, rgba(127,177,210,1) 0%, rgba(159,194,239,1) 50%, rgba(201,243,224,1) 100%)`,
   },
-  hncBannerBg: {
-    background: `linear-gradient(90deg, rgba(169,211,240,1) 0%, rgba(124,177,210,1)  100%)`,
+  athletesBannerBg: {
+    background: `linear-gradient(90deg, rgba(169,211,240,1) 0%, rgba(227,176,109,1) 100%)`,
   },
   anniversaryBannerWrapper: {
     background: `linear-gradient(90deg, rgba(51,54,79,1) 0%, rgba(51,54,79,1) 100%)`,
@@ -221,11 +221,116 @@ const useStyles = makeStyles((theme) => ({
     },
   },
 }))
-const Banner = ({ nodes }) => {
+
+export const HeroBannerTemplate = ({ data }) => {
   const { t, language } = useI18next()
   const isEn = language === 'en'
   const classes = useStyles({ isEn })
   const { tB } = useObjectTranslation()
+  const theme = useTheme()
+  const isMobile = useMediaQuery(theme.breakpoints.down('xs'))
+
+  return (
+    <>
+      <Box className={classes.heroBannerWrapper}>
+        {isMobile ? (
+          <GatsbyImage
+            className={classes.heroImgWrapper}
+            image={data?.mobileImage && getImage(data?.mobileImage)}
+            placeholder='blurred'
+            alt={tB('title', data)}
+            onError={(error) => console.log('GatsbyImage ERROR', error)}
+          ></GatsbyImage>
+        ) : (
+          <GatsbyImage
+            className={classes.heroImgWrapper}
+            image={data?.image && getImage(data?.image)}
+            placeholder='blurred'
+            alt={tB('title', data)}
+            onError={(error) => console.log('GatsbyImage ERROR', error)}
+          ></GatsbyImage>
+        )}
+        <Container className={classes.wrapper} maxWidth='md'>
+          <Box className={classes.contentWrapper}>
+            <Typography variant={isMobile && isEn ? 'h3' : 'h2'} color='primary' component='div'>
+              <Box
+                className={classnames(classes.titleWrapper, {
+                  [classes.isEnTitleWrapper]: isEn,
+                })}
+                mb={isMobile ? 1 : 2}
+                lineHeight={1.5}
+                dangerouslySetInnerHTML={{
+                  __html: tB('title', data),
+                }}
+              ></Box>
+              <Box
+                className={classnames({
+                  [classes.isEnDetailWrapper]: isEn,
+                })}
+                fontSize={isMobile ? 'caption.fontSize' : 'body1.fontSize'}
+                fontWeight='fontWeightLight'
+                lineHeight='1.5'
+                textAlign='justify'
+                whiteSpace='break-spaces'
+                dangerouslySetInnerHTML={{
+                  __html: tB('detail', data),
+                }}
+              ></Box>
+            </Typography>
+            <Grid
+              className={classnames(classes.btnWrapper, {
+                [classes.isEnBtnWrapper]: isEn,
+              })}
+              container
+              spacing={2}
+            >
+              {data?.buttons?.length > 0 &&
+                data?.buttons?.map((button) => (
+                  <Grid key={button.name} item xs={isMobile && !isEn ? 12 : data?.buttons?.length === 1 ? 12 : 'auto'}>
+                    <Link
+                      id={button.id || ''}
+                      underline='none'
+                      to={button.link}
+                    >
+                      <Button
+                        variant={button.variant}
+                        color={button.color}
+                        className={classes.btn}
+                        fullWidth={!isMobile && data?.buttons?.length === 1}
+                      >
+                        {t(button.name)}
+                      </Button>
+                    </Link>
+                  </Grid>
+                ))}
+            </Grid>
+            <Hidden xsDown>
+              <Box
+                className={classes.reference}
+                dangerouslySetInnerHTML={{
+                  __html: data?.reference,
+                }}
+              ></Box>
+            </Hidden>
+          </Box>
+        </Container>
+      </Box>
+      <Hidden smUp>
+        <Box
+          className={classes.reference}
+          dangerouslySetInnerHTML={{
+            __html: data?.reference,
+          }}
+        ></Box>
+      </Hidden>
+    </>
+  )
+}
+
+const Banner = ({ nodes }) => {
+  const { language } = useI18next()
+  const isEn = language === 'en'
+  const classes = useStyles({ isEn })
   const theme = useTheme()
   const isMobile = useMediaQuery(theme.breakpoints.down('xs'))
   const { toggleTheme } = useContext(HeroThemeContext)
@@ -249,6 +354,75 @@ const Banner = ({ nodes }) => {
         speed={700}
         watchOverflow={true}
       >
+        {/* <SwiperSlide>
+          <Box
+            className={classes.heroBannerWrapper}
+            id='RW_HP_Top_Banner_Xmas22Promo_EHEALTH'
+            to={addLangQuery()}
+            target='_blank'
+            component={Link}
+          >
+            <Box
+              className={classnames(
+                classes.heroImgWrapper,
+                classes.anniversaryBannerWrapper,
+                classes.containImgWrapper,
+                classes.promoBannerBg
+              )}
+              position='relative'
+            >
+              <ImageTranslation
+                filename='Chris'
+                alt='Chris banner'
+                className={classes.containImg}
+                objectFit='contain'
+              ></ImageTranslation>
+            </Box>
+          </Box>
+        </SwiperSlide> */}
+        {/* <SwiperSlide>
+          <Box className={classes.heroBannerWrapper}>
+            <Box
+              className={classnames(classes.heroImgWrapper, classes.containImgWrapper, classes.athletesBannerBg)}
+              position='relative'
+            >
+              <ImageTranslation
+                filename='athletes_banner'
+                alt='athletes banner'
+                className={classes.containImg}
+                objectFit='contain'
+              ></ImageTranslation>
+              <Box className={classes.imageButtonWrapper}>
+                <Box
+                  position='absolute'
+                  right={isMobile ? '7.8%' : isEn ? '38.5%' : '32%'}
+                  width={isMobile ? '22%' : isEn ? '14.5%' : '16%'}
+                  height={isMobile ? '6%' : '8%'}
+                  top={isMobile ? '38.5%' : 'auto'}
+                  bottom={isMobile ? 'unset' : isEn ? '9%' : '12.5%'}
+                  to={addLangQuery()}
+                  target='_blank'
+                  component={Link}
+                >
+                  <Box />
+                </Box>
+                <Box
+                  position='absolute'
+                  right={isMobile ? '7.8%' : isEn ? '3.5%' : '5.5%'}
+                  width={isMobile ? '22%' : isEn ? '32%' : '23%'}
+                  height={isMobile ? '3.5%' : '8%'}
+                  top={isMobile ? '47.5%' : 'unset'}
+                  bottom={isMobile ? 'unset' : isEn ? '9%' : '12.5%'}
+                  to='/whats-new/updates/athletes-program/'
+                  component={Link}
+                  id='BannerRW_HP_Top_Banner_Athlete_KnowMore'
+                >
+                  <Box />
+                </Box>
+              </Box>
+            </Box>
+          </Box>
+        </SwiperSlide> */}
         <SwiperSlide>
           <Box className={classes.heroBannerWrapper}>
             <Box
@@ -284,95 +458,7 @@ const Banner = ({ nodes }) => {
         {nodes?.length &&
           nodes?.map((node) => (
             <SwiperSlide key={node.id}>
-              <Box className={classes.heroBannerWrapper}>
-                {isMobile ? (
-                  <GatsbyImage
-                    className={classes.heroImgWrapper}
-                    image={node?.frontmatter?.mobileImage && getImage(node?.frontmatter?.mobileImage)}
-                    placeholder='blurred'
-                    alt={tB('title', node?.frontmatter)}
-                  ></GatsbyImage>
-                ) : (
-                  <GatsbyImage
-                    className={classes.heroImgWrapper}
-                    image={node?.frontmatter?.image && getImage(node?.frontmatter?.image)}
-                    placeholder='blurred'
-                    alt={tB('title', node?.frontmatter)}
-                  ></GatsbyImage>
-                )}
-                <Container className={classes.wrapper} maxWidth='md'>
-                  <Box className={classes.contentWrapper}>
-                    <Typography variant={isMobile && isEn ? 'h3' : 'h2'} color='primary' component='div'>
-                      <Box
-                        className={classnames(classes.titleWrapper, {
-                          [classes.isEnTitleWrapper]: isEn,
-                        })}
-                        mb={isMobile ? 1 : 2}
-                        lineHeight={1.5}
-                        dangerouslySetInnerHTML={{
-                          __html: tB('title', node?.frontmatter),
-                        }}
-                      ></Box>
-                      <Box
-                        className={classnames({
-                          [classes.isEnDetailWrapper]: isEn,
-                        })}
-                        fontSize={isMobile ? 'caption.fontSize' : 'body1.fontSize'}
-                        fontWeight='fontWeightLight'
-                        lineHeight='1.5'
-                        textAlign='justify'
-                        whiteSpace='break-spaces'
-                        dangerouslySetInnerHTML={{
-                          __html: tB('detail', node?.frontmatter),
-                        }}
-                      ></Box>
-                    </Typography>
-                    <Grid
-                      className={classnames(classes.btnWrapper, {
-                        [classes.isEnBtnWrapper]: isEn,
-                      })}
-                      container
-                      spacing={2}
-                    >
-                      {node?.frontmatter?.buttons?.length > 0 &&
-                        node?.frontmatter?.buttons?.map((button) => (
-                          <Grid
-                            key={button.name}
-                            item
-                            xs={isMobile && !isEn ? 12 : node?.frontmatter?.buttons?.length === 1 ? 12 : 'auto'}
-                          >
-                            <Link id={button.id || ''} underline='none' to={button.link}>
-                              <Button
-                                variant={button.variant}
-                                color={button.color}
-                                className={classes.btn}
-                                fullWidth={!isMobile && node?.frontmatter?.buttons?.length === 1}
-                              >
-                                {t(button.name)}
-                              </Button>
-                            </Link>
-                          </Grid>
-                        ))}
-                    </Grid>
-                    <Hidden xsDown>
-                      <Box
-                        className={classes.reference}
-                        dangerouslySetInnerHTML={{
-                          __html: node?.frontmatter?.reference,
-                        }}
-                      ></Box>
-                    </Hidden>
-                  </Box>
-                </Container>
-              </Box>
-              <Hidden smUp>
-                <Box
-                  className={classes.reference}
-                  dangerouslySetInnerHTML={{
-                    __html: node?.frontmatter?.reference,
-                  }}
-                ></Box>
-              </Hidden>
+              <HeroBannerTemplate data={node.frontmatter} />
             </SwiperSlide>
           ))}
       </Swiper>
