@@ -17,7 +17,6 @@ public_folder: /static
 
 publish_mode: editorial_workflow
 
-
 collections:
   # - name: 'docs'
   #   label: 'Docs'
@@ -33,7 +32,7 @@ collections:
     create: true
     slug: '{{fields.slug}}'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
@@ -60,6 +59,8 @@ collections:
           options: ['zh-HK', 'zh-CN', 'en'],
           default: ['zh-HK'],
         }
+      - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
   - name: 'promotions'
     label: Promotions Post
     folder: 'content/promotions'
@@ -77,15 +78,18 @@ collections:
           options: ['zh-HK', 'zh-CN', 'en'],
           default: ['zh-HK'],
         }
-      - { label: 'Cover', name: 'cover', widget: 'image' }
+      - { label: 'Cover(the first one also used as OG:IMAGE)', name: 'cover', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Type', name: 'type', widget: 'select', options: [], default: [], required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+      - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
+      - { label: 'ButtonId', name: 'buttonId', widget: 'string', required: false }
   - name: 'health-tips'
     label: Health Tips Post
     folder: 'content/health-tips'
@@ -124,9 +128,10 @@ collections:
           options: ['zh-HK', 'zh-CN', 'en'],
           default: ['zh-HK'],
         }
-      - { label: 'Cover', name: 'cover', widget: 'image' }
+      - { label: 'Cover(the first one also used as OG:IMAGE)', name: 'cover', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string', required: false}
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - {
@@ -140,6 +145,8 @@ collections:
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+      - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
   - name: 'updates'
     label: Update Post
     folder: 'content/updates'
@@ -157,9 +164,9 @@ collections:
           options: ['zh-HK', 'zh-CN', 'en'],
           default: ['zh-HK'],
         }
-      - { label: 'Cover', name: 'cover', widget: 'image' }
+      - { label: 'Cover(the first one also used as OG:IMAGE)', name: 'cover', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - {
@@ -179,6 +186,9 @@ collections:
         }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+      - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
+      - { label: 'ButtonId', name: 'buttonId', widget: 'string', required: false }
   - name: 'campaign-page-posts'
     label: Campaign Page Post
     folder: 'content/campaign-page-posts'
@@ -225,19 +235,23 @@ collections:
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+      - { label: 'SEOTitle', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription', name: 'seoDescription', widget: 'string', required: false }
   - name: 'clinic-papers'
     label: Clinical Paper
-    folder: 'content/clinical-papers'
+    folder: 'content/clinic-papers'
     create: true
     slug: '{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
+      - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
   - name: 'careers'
     label: Career
     folder: 'content/careers'
@@ -272,6 +286,8 @@ collections:
           options: ['all', 'mainland_china', 'hongkong_special_administrative_region'],
           default: [],
         }
+      - { label: 'SEOTitle', name: 'seoTitle', widget: 'string', required: false }
+      - { label: 'SEODescription', name: 'seoDescription', widget: 'string', required: false }
   - name: 'hero-banners'
     label: 'Hero Banners'
     folder: 'content/hero-banners'
