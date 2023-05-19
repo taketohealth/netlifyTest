@@ -136,6 +136,7 @@ collections:
           label: 'Cover(the first one also used as OG:IMAGE)',
           name: 'cover',
           min: 1,
+          max: 50,
           widget: 'list',
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
