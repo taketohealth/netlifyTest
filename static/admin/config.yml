@@ -80,14 +80,14 @@ collections:
           label: 'Cover(the first one also used as OG:IMAGE)',
           name: 'cover',
           min: 1,
-          widget: 'list',
+          widget: list,
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
-      - { label: 'Type', name: 'type', widget: 'select', options: [], default: [], required: false }
+      - { label: 'Type', name: 'type', widget: 'select', options: [], default: '', required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -149,7 +149,7 @@ collections:
           name: 'type',
           widget: 'select',
           options: ['health_tip', 'professional_healthcare_tip'],
-          default: [],
+          default: '',
           required: false,
         }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
@@ -197,7 +197,7 @@ collections:
               'ceo_sharing',
               'business_cooperation',
             ],
-          default: [],
+          default: '',
           required: false,
         }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
@@ -220,7 +220,7 @@ collections:
           name: 'postType',
           widget: 'select',
           options: ['campaignStory', 'campaignNews', 'campaignAthlete'],
-          default: [],
+          default: '',
           required: false,
         }
       # TODO show only when post is campaignAthlete
@@ -253,7 +253,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
-      - { label: 'Type', name: 'type', widget: 'select', options: [], default: [], required: false }
+      - { label: 'Type', name: 'type', widget: 'select', options: [], default: '', required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -299,7 +299,7 @@ collections:
           name: 'type',
           widget: 'select',
           options: ['business_strategic_cooperation', 'dite'],
-          default: [],
+          default: '',
         }
       - {
           label: 'Region',
