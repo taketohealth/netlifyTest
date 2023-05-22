@@ -256,7 +256,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Type', name: 'type', widget: 'select', options: [], default: '', required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
@@ -274,7 +274,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
       - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
