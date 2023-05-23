@@ -42,6 +42,39 @@
     ]
   },
   {
+    "title": "menu.products_and_services",
+    "banner": "products_services_section_banner",
+    "mobileBanner": "products_services_section_banner_mobile",
+    "path": "/products-and-services/",
+    "titleColor": "primary.main",
+    "sections": [
+      {
+        "title": "menu.take2_prophecy",
+        "path": "/products-and-services/take2-prophecy/"
+      },
+      {
+        "title": "menu.cancer_screen_package",
+        "path": "/products-and-services/cancer-screen-package/"
+      },
+      {
+        "title": "menu.health_check_package",
+        "path": "/products-and-services/health-check-package/"
+      },
+      {
+        "title": "menu.take2_clarity",
+        "path": "/products-and-services/take2-clarity/"
+      },
+      {
+        "title": "menu.take2_extra_care",
+        "path": "/products-and-services/take2-extra-care/"
+      },
+      {
+        "title": "menu.faq",
+        "path": "/products-and-services/FAQ/"
+      }
+    ]
+  },
+  {
     "title": "menu.service_location",
     "banner": "whats_new_section_banner",
     "mobileBanner": "whats_new_section_banner_mobile",
