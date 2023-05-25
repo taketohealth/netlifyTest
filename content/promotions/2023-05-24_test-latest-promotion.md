@@ -11,6 +11,6 @@ slug: testing_1234
 seoTitle: testing 1234 最新優惠
 seoDescription: testing 1234 最新優惠
 ---
-<ifram><p><span style="background-color:#1abc9c">哈哈哈哈哈</span></p></ifram>
+<iframe><p><span style="background-color:#1abc9c">哈哈哈哈哈</span></p></iframe>
 
 ![testing 1234 最新優惠](../images/image.webp "testing 1234 最新優惠")
