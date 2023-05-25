@@ -11,6 +11,6 @@ slug: testing_1234
 seoTitle: testing 1234 最新優惠
 seoDescription: testing 1234 最新優惠
 ---
-<html><p><span style="background-color:#1abc9c">哈哈哈哈哈</span></p></html>
+<font color="red">想变成红色的内容</font>
 
 ![testing 1234 最新優惠](../images/image.webp "testing 1234 最新優惠")
