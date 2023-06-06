@@ -94,7 +94,7 @@ collections:
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
       - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
       - { label: 'SEODescription(also used as OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
-      - { label: 'ID(also used as GA4:ButtonID,Button)', name: 'buttonId', widget: 'string', required: false }
+      - { label: 'ID(also used as GA4:ButtonID,ButtonName)', name: 'buttonId', widget: 'string', required: false }
   - name: 'health-tips'
     label: Health Tips Post
     folder: 'content/health-tips'
@@ -159,7 +159,7 @@ collections:
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
       - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
       - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
-      - { label: 'ID(also used as GA4:ButtonID,Button)', name: 'buttonId', widget: 'string', required: false }
+      - { label: 'ID(also used as GA4:ButtonID,ButtonName)', name: 'buttonId', widget: 'string', required: false }
   - name: 'updates'
     label: Update Post
     folder: 'content/updates'
@@ -208,7 +208,6 @@ collections:
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
       - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
       - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
-      - { label: 'ButtonId', name: 'buttonId', widget: 'string', required: false }
   - name: 'campaign-page-posts'
     label: Campaign Page Post
     folder: 'content/campaign-page-posts'
