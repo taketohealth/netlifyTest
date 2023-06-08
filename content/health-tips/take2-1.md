@@ -1,22 +1,22 @@
 ---
-type: health_tip
-languages:
-- zh-CN
-cover:
-- "../images/take2-health-x-crhk_facebook-graphic_20220309-website-adaptation-ai-new1_-1.png"
-date: 2021-01-30T00:00:00.000+08:00
-title: "《杏林早茶：先知先医 生命有Take2》商业电台专访 鼻咽癌特辑"
-detail: 商業電台雷霆881903《在晴朗的一天出發》——《杏林早茶：先知先醫生命有Take2》邀請了得易健康有限公司行政總裁翁錦輝Tony以及耳鼻喉專科林傳廣醫生，為聽眾分享一系列與鼻咽癌相關的健康資訊。
-href: ''
-slug: 881903-interview-take2
 hide: false
+cpTitle: ""
 isCampaign: false
-postType: ''
-athleteType: ''
-cpTitle: ''
-cpDetail: ''
-pdf: ''
-
+postType: ""
+athleteType: ""
+languages:
+  - zh-CN
+cover:
+  - ../images/take2-health-x-crhk_facebook-graphic_20220309-website-adaptation-ai-new1_-1.png
+date: 2021-01-30T00:00:00.000+08:00
+title: 《杏林早茶：先知先医 生命有Take2》商业电台专访 鼻咽癌特辑
+detail: 商業電台雷霆881903《在晴朗的一天出發》——《杏林早茶：先知先醫生命有Take2》邀請了得易健康有限公司行政總裁翁錦輝Tony以及耳鼻喉專科林傳廣醫生，為聽眾分享一系列與鼻咽癌相關的健康資訊。
+type: health_tip
+pdf: ""
+href: ""
+slug: 881903-interview-take2
+buttonId: RW_HealthTips_Article_radio_881903_210130
+cpDetail: ""
 ---
 2021 年 1 月 25 日至 1 月 29 日，商业电台雷霆 881903《在晴朗的一天出发》——《杏林早茶：先知先医生命有 Take2》邀请了得易健康有限公司行政总裁翁锦辉 Tony 以及耳鼻喉专科林传广医生，为听众分享一系列与鼻咽癌相关的健康资讯。早期鼻咽癌病征有机会不明显，市民如何透过简单抽血，配合次世代 DNA 测序技术，尽早了解自己健康状况呢？想知道自己是不是属于鼻咽癌的高危人群，如何识别鼻咽癌，以及鼻咽癌会为患者生活带来怎样的影响？欢迎收听以下节目。
 
