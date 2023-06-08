@@ -14,7 +14,7 @@ type: health_tip
 pdf: ""
 href: https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/718265/%E5%B0%8D%E4%BB%98%E4%B8%AD%E5%B9%B4%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%A9%9F-%E9%AB%94%E6%AA%A2%E5%8F%8A%E6%97%A9%E6%9C%9F%E7%99%8C%E7%97%87%E7%AF%A9%E6%9F%A5%E6%8C%91%E9%81%B8%E8%B2%BC%E5%A3%AB
 slug: ""
-buttonId: RW_HealthTips_Article_External_HK01_MidAge
+buttonId: RW_HealthTips_Article_External_HK01_MidAge_220103
 cpDetail: ""
 ---
 1
