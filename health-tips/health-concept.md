@@ -9,6 +9,6 @@ detail: 鼻咽癌是香港常見癌症之一，很多人以為這種癌症只出
 type: professional_healthcare_tip
 href: https://healthconcept.io/%E5%81%A5%E5%BA%B7%E8%B3%87%E8%A8%8A/%E9%86%AB%E7%94%9F%E7%B1%B2%E9%80%B2%E8%A1%8C%E9%AB%98%E6%BA%96%E7%A2%BA%E5%BA%A6%E9%BC%BB%E5%92%BD%E7%99%8C%E7%AF%A9%E6%9F%A5
 slug: ""
-buttonId: RW_HealthTips_Article_External_HC_StuffyNose
+buttonId: RW_HealthTips_Article_External_HC_StuffyNose_220113
 ---
 1
