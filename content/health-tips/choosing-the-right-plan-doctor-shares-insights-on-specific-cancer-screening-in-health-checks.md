@@ -12,6 +12,6 @@ detail: Why should we get specific cancer screenings as part of our health check
 type: professional_healthcare_tip
 href: https://www.scmp.com/presented/news/hong-kong/health-environment/topics/cancer-screenings/article/3106575/choosing-right
 slug: ""
-buttonId: RW_HealthTips_Article_External_SCMP_RightPlan_210411
+buttonId: RW_HealthTips_Article_External_SCMP_RightPlan_211104
 ---
 1﻿
