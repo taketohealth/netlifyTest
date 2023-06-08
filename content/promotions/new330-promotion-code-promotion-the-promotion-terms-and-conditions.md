@@ -1,18 +1,18 @@
 ---
-languages:
-- en
-cover:
-- "../images/new330-tnc-thumbnail_en.png"
-date: 2022-02-28T00:00:00.000+08:00
-title: "“NEW330” Promotion Code Promotion (the “Promotion”) Terms and Conditions"
-detail: To enjoy the discount of HKD330 off on your purchase, you shall follow these
-  Terms and Conditions.
-type: ''
-pdf: ''
-href: ''
-slug: new330-tnc
 hide: false
-
+languages:
+  - en
+cover:
+  - ../images/new330-tnc-thumbnail_en.png
+date: 2022-02-28T00:00:00.000+08:00
+title: “NEW330” Promotion Code Promotion (the “Promotion”) Terms and Conditions
+detail: To enjoy the discount of HKD330 off on your purchase, you shall follow
+  these Terms and Conditions.
+type: ""
+pdf: ""
+href: ""
+slug: new330-tnc
+buttonId: RW_Promotions_Latest_Promo_NEW330
 ---
 **1.**	These terms (“Terms”) apply to all the Promotion (“Promotion”) offered by Take2 Health Limited (“we”, “us”, “our”). By participating in the any of our Promotion, you agree to these terms.
 
