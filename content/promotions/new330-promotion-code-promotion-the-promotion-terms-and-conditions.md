@@ -12,6 +12,10 @@ type: ""
 pdf: ""
 href: ""
 slug: new330-tnc
+seoTitle: “NEW330” Promotion Code Terms and Conditions| Take2 Health
+seoDescription: Promotion Codes are only applicable for purchase on Take2 Health
+  Platform. New users using the code “NEW330” may enjoy a HKD330 discount on
+  their first purchase.
 buttonId: RW_Promotions_Latest_Promo_NEW330
 ---
 **1.**	These terms (“Terms”) apply to all the Promotion (“Promotion”) offered by Take2 Health Limited (“we”, “us”, “our”). By participating in the any of our Promotion, you agree to these terms.
