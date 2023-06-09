@@ -1,20 +1,22 @@
 ---
-type: industry_information
-cover:
-- "../images/untitled-design-30.png"
-date: 2021-12-07T00:00:00.000+08:00
-title: 'Alliance with BOC Life to Become the First Brand Providing Early Cancer Detection
-  on “Live Young” '
-detail: The Take2 Prophecy™ Test for Nasopharyngeal Cancer is officially launched
-  on BOC Life membership platform “Live Young”. From December 2021 onwards, BOC Life
-  insurance clients can earn points through their health metrics for different rewards,
-  including the Take2 Prophecy™ Test for NPC.
-href: ''
-slug: launch-on-boc-live-young
+hide: true
 languages:
-- en
-hide: false
-
+  - en
+cover:
+  - ../images/untitled-design-30.png
+date: 2021-12-07T00:00:00.000+08:00
+title: "Alliance with BOC Life to Become the First Brand Providing Early Cancer
+  Detection on “Live Young” "
+detail: The Take2 Prophecy™ Test for Nasopharyngeal Cancer is officially
+  launched on BOC Life membership platform “Live Young”. From December 2021
+  onwards, BOC Life insurance clients can earn points through their health
+  metrics for different rewards, including the Take2 Prophecy™ Test for NPC.
+type: industry_information
+href: ""
+slug: launch-on-boc-live-young
+seoTitle: Alliance with BOC Life on “Live Young”|Take2 Health
+seoDescription: The Take2 Prophecy™ Test for Nasopharyngeal Cancer (NPC) is now
+  available for redemption on BOC Life membership platform “Live Young”.
 ---
 ![](../images/untitled-design-31.png)
 
