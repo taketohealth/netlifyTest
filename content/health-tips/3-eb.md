@@ -15,6 +15,9 @@ type: professional_healthcare_tip
 pdf: ""
 href: ""
 slug: dr-advice-eb-virus
+seoTitle: 感染EB病毒一定是患上鼻咽癌？| Take2 Health
+seoDescription: EB病毒檢查結果呈陽性，擔心自己是否已患上鼻咽癌？原來全球超過9成成年人曾感染EB 病毒，那EB
+  病毒和鼻咽癌有多大關聯？立即和Take2 Health 一探究竟。
 buttonId: RW_HealthTips_Article_Dr_Tsui_NPC_EBV_220624
 cpDetail: ""
 ---
