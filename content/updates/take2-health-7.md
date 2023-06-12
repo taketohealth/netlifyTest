@@ -1,16 +1,18 @@
 ---
-type: company_awards_and_achievements
+hide: false
 languages:
-- zh-CN
+  - zh-CN
 cover:
-- "../images/wechat-image_20220718085926.jpg"
+  - ../images/wechat-image_20220718085926.jpg
 date: 2022-07-19T00:00:00.000+08:00
 title: Take2 Health荣获“金筛奖‧最具投资价值潜力企业”及“金筛奖‧突破性创新奖”
-detail: Take2 Health 于2022年7月15至17日参与了ZAODX世界肿瘤早筛大会，并非常荣幸能于会上获得“金筛奖‧最具投资价值潜力企业＂及“金筛奖‧突破性创新奖＂两项意义重大的殊荣。
-href: ''
+detail: Take2 Health
+  于2022年7月15至17日参与了ZAODX世界肿瘤早筛大会，并非常荣幸能于会上获得“金筛奖‧最具投资价值潜力企业＂及“金筛奖‧突破性创新奖＂两项意义重大的殊荣。
+type: company_awards_and_achievements
+href: ""
 slug: ZAODX2022
-hide: false
-
+seoTitle: 于世界肿瘤早筛大会荣获两奖|Take2 Health
+seoDescription: Take2 Health于ZAODX世界肿瘤早筛大会上荣获「最具投资价值潜力企业」及「突破性创新奖」两项金筛奖。
 ---
 Take2 Health （下称：我司）于2022年7月15至17日参与了ZAODX世界肿瘤早筛大会，并非常荣幸能于会上获得“金筛奖‧最具投资价值潜力企业＂及“金筛奖‧突破性创新奖＂两项意义重大的殊荣。
 
