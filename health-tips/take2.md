@@ -15,6 +15,8 @@ type: professional_healthcare_tip
 pdf: ""
 href: ""
 slug: 881903-interview-take2
+seoTitle: 《杏林早茶：先知先醫 生命有Take2》| Take2 Health
+seoDescription: 得易健康和專家在商業電台《在晴朗的一天出發》節目中，為聽眾分享一系列與鼻咽癌相關的健康資訊，教大家識別鼻咽癌病徵，以及如何以NGS技術，透過驗血了解自己的健康狀況。
 buttonId: RW_HealthTips_Article_radio_881903_210130
 cpDetail: ""
 ---
