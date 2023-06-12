@@ -3,7 +3,7 @@ hide: false
 languages:
   - zh-HK
 cover:
-  - ../images/untitled-design-16.png
+  - ../images/rw-corp-news-deloitte-rising-star-2021-1.webp
 date: 2021-12-15T00:00:00.000+08:00
 title: Take2 Health 榮獲「2021德勤香港明日之星」得獎企業
 detail: Take2 Health 於2021年12月5日參與由德勤 (Deloitte)
@@ -14,7 +14,7 @@ slug: rising-star-company-2021
 seoTitle: 榮獲「2021德勤香港明日之星」得獎企業|Take2 Health
 seoDescription: Take2 Health獲德勤 (Deloitte)頒發「2021德勤香港明日之星」殊榮，從企業願景、創始團隊、技術創新和行業前景等範疇均備受認可。
 ---
-![](../images/untitled-design-19.png)
+![Take2 Health 榮獲「2021德勤香港明日之星」得獎企業](../images/rw-corp-news-deloitte-rising-star-2021-1.webp)
 
 Take2 Health（下稱：我司） 於2021年12月5日參與由德勤  (Deloitte) 主辦的「香港高科技高成長及明日之星」頒獎典禮，並於同日成功獲得「2021德勤香港明日之星」這項殊榮。
 
@@ -22,4 +22,4 @@ Take2 Health（下稱：我司） 於2021年12月5日參與由德勤  (Deloitte)
 
 目前，為了使大眾更容易接觸到早期鼻咽癌篩查服務，我司正致力推動市民使用專屬的網上健康服務平台，讓服務更高效、方便和快捷。在此再次感謝德勤對我司業務和發展的肯定，未來我司將持續提供更靈活和創新的健康服務予社會各界。
 
-![](../images/untitled-design-8.jpg)
+![Take2 Health 榮獲「2021德勤香港明日之星」得獎企業](../images/rw-corp-news-deloitte-rising-star-2021-2.webp)
