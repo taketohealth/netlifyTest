@@ -1,24 +1,26 @@
 ---
-type: company_awards_and_achievements
+hide: false
 languages:
-- zh-HK
+  - zh-HK
 cover:
-- "../images/wechat-image_20220718085926.jpg"
+  - ../images/rw-corp-news-zaodx2022-4.webp
 date: 2022-07-19T00:00:00.000+08:00
 title: Take2 Health榮獲「金篩獎‧最具投資價值潛力企業」及「金篩獎‧突破性創新獎」
-detail: Take2 Health 於2022年7月15至17日參與了ZAODX世界腫瘤早篩大會，並非常榮幸能於會上獲得「金篩獎‧最具投資價值潛力企業」及「金篩獎‧突破性創新獎」兩項意義重大的殊榮。
-href: ''
+detail: Take2 Health
+  於2022年7月15至17日參與了ZAODX世界腫瘤早篩大會，並非常榮幸能於會上獲得「金篩獎‧最具投資價值潛力企業」及「金篩獎‧突破性創新獎」兩項意義重大的殊榮。
+type: company_awards_and_achievements
+href: ""
 slug: ZAODX2022
-hide: false
-
+seoTitle: 於世界腫瘤早篩大會榮獲兩獎|Take2 Health
+seoDescription: Take2 Health於ZAODX世界腫瘤早篩大會上榮獲「最具投資價值潛力企業」及「突破性創新獎」兩項金篩獎。
 ---
 Take2 Health （下稱：我司）於2022年7月15至17日參與了ZAODX世界腫瘤早篩大會，並非常榮幸能於會上獲得「金篩獎‧最具投資價值潛力企業」及「金篩獎‧突破性創新獎」兩項意義重大的殊榮。
 
-![](../images/6e5f14e2a3b245c8227f62fb02c2e26.jpg)
+![Take2 Health於世界腫瘤早篩大會榮獲兩獎](../images/rw-corp-news-zaodx2022-1.webp)
 
-![](../images/a4b5b6eebb66da42767c97aa7941e35.jpg)
+![Take2 Health於世界腫瘤早篩大會榮獲兩獎](../images/rw-corp-news-zaodx2022-2.webp)
 
-![](../images/wechat-image_20220718154312.jpg)
+![Take2 Health於世界腫瘤早篩大會榮獲「最具投資價值潛力企業」及「突破性創新獎」兩項金篩獎](../images/rw-corp-news-zaodx2022-3.webp)
 
 <br/>
 
@@ -28,6 +30,6 @@ ZAODX世界腫瘤早篩大會由中國國家高性能醫療器械創新中心、
 
 會上匯聚了業內資深專家、學者、研究人員、醫護人員、行業協會等，我司的首席技術官葉明芝博士有幸和專家們就著腫瘤早篩議題開展了多種形式的交流和討論外，還和他們分享了Take2 Health如何應用基因組學技術於鼻咽癌早篩上，以有效找出極早期鼻咽癌患者，提高其成功治癒的機會及存活率，並期望共同促使創新的醫療健康技術在我國乃至全世界造福廣大民眾。
 
-![](../images/wechat-image_20220718085926.jpg)
+![Take2 Health於世界腫瘤早篩大會榮獲兩獎](../images/rw-corp-news-zaodx2022-4.webp)
 
-![](../images/wechat-image_20220718085738_crop.jpg)
+![Take2 Health於世界腫瘤早篩大會榮獲兩獎](../images/rw-corp-news-zaodx2022-5.webp)
