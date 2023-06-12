@@ -1,16 +1,18 @@
 ---
-type: company_trends
+hide: false
+languages:
+  - zh-CN
 cover:
-- "../images/untitled-design-35.png"
+  - ../images/untitled-design-35.png
 date: 2021-12-16T00:00:00.000+08:00
 title: Take2 Health落户深圳前海嘉里中心 为拓展大湾区业务奠基
-detail: 为配合公司的长远发展方向和满足业务需要，Take2 Health下称：“得易健康”或“我司”）于2021年年底正式落户深圳前海嘉里中心，成为我司首个香港特别行政区以外的营运基地。我司期望未来能持续将早期鼻咽癌筛查服务拓展至粤港澳大湾区，以提升湾区内人民的整体健康水平。
-href: ''
+detail: 为配合公司的长远发展方向和满足业务需要，Take2
+  Health下称：“得易健康”或“我司”）于2021年年底正式落户深圳前海嘉里中心，成为我司首个香港特别行政区以外的营运基地。我司期望未来能持续将早期鼻咽癌筛查服务拓展至粤港澳大湾区，以提升湾区内人民的整体健康水平。
+type: company_trends
+href: ""
 slug: sz-qianhai-kerry-centre
-languages:
-- zh-CN
-hide: false
-
+seoTitle: 落户深圳前海　为拓展大湾区业务奠基|Take2 Health
+seoDescription: Take2 Health正式落户深圳前海嘉里中心，期望能持续将早期鼻咽癌筛查服务拓展至粤港澳大湾区，以提升大湾区内人民的整体健康水平。
 ---
 ![](../images/2.jpg)
 
