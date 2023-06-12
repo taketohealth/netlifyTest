@@ -1,28 +1,31 @@
 ---
-type: company_awards_and_achievements
-languages:
-- en
-cover:
-- "../images/wechat-image_20220718085926.jpg"
-date: 2022-07-19T00:00:00.000+08:00
-title: Awarded as The Company with the Most Investment Potential & The Top Breakthrough
-  Innovation
-detail: Take2 Health are privileged to have participated in the first ZAODX World
-  Conference on Early Detection of Cancer, and are very honoured to be awarded as
-  The Company with the Most Investment Potential (金篩獎‧最具投資價值潛力企業) as well as The Top
-  Breakthrough Innovation (金篩獎‧突破性創新獎)
-href: ''
-slug: ZAODX2022
 hide: false
-
+languages:
+  - en
+cover:
+  - ../images/rw-corp-news-zaodx2022-4.webp
+date: 2022-07-19T00:00:00.000+08:00
+title: Awarded as The Company with the Most Investment Potential & The Top
+  Breakthrough Innovation
+detail: Take2 Health are privileged to have participated in the first ZAODX
+  World Conference on Early Detection of Cancer, and are very honoured to be
+  awarded as The Company with the Most Investment Potential (金篩獎‧最具投資價值潛力企業) as
+  well as The Top Breakthrough Innovation (金篩獎‧突破性創新獎)
+type: company_awards_and_achievements
+href: ""
+slug: ZAODX2022
+seoTitle: Received Two Awards in ZAODX World Conference|Take2 Health
+seoDescription: Take2 Health is honoured to be awarded "The Company with the
+  Most Investment Potential" and "The Top Breakthrough Innovation" in ZAODX
+  World Conference.
 ---
 We are privileged to have participated in the first ZAODX World Conference on Early Detection of Cancer, and are very honoured to be awarded as The Company with the Most Investment Potential (金篩獎‧最具投資價值潛力企業) as well as The Top Breakthrough Innovation (金篩獎‧突破性創新獎)
 
-![](../images/6e5f14e2a3b245c8227f62fb02c2e26.jpg)
+![Take2 Health Received Two Awards in ZAODX World Conference](../images/rw-corp-news-zaodx2022-1.webp)
 
-![](../images/a4b5b6eebb66da42767c97aa7941e35.jpg)
+![Take2 Health Received Two Awards in ZAODX World Conference](../images/rw-corp-news-zaodx2022-2.webp)
 
-![](../images/wechat-image_20220718154312.jpg)
+![Take2 Health Received Two Awards in ZAODX World Conference](../images/rw-corp-news-zaodx2022-3.webp)
 
 <br/>
 
@@ -36,6 +39,6 @@ Thrilled to have the opportunity to share our insights with the industry’s lea
 
 Looking forward, we will continue to dedicate ourselves to and work towards delivering progress in healthcare inventions that positively impact China’s and the world’s health communities.
 
-![](../images/wechat-image_20220718085926.jpg)
+![Take2 Health Received Two Awards in ZAODX World Conference](../images/rw-corp-news-zaodx2022-4.webp)
 
-![](../images/wechat-image_20220718085738_crop.jpg)
+![Take2 Health Received Two Awards in ZAODX World Conference](../images/rw-corp-news-zaodx2022-5.webp)
