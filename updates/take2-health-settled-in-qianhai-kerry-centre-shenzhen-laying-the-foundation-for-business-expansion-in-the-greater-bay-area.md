@@ -1,18 +1,22 @@
 ---
-type: company_trends
-cover:
-- "../images/untitled-design-35.png"
-date: 2021-12-16T00:00:00.000+08:00
-title: Take2 Health Settled in Qianhai Kerry Centre, Shenzhen, Laying the Foundation
-  for Business Expansion
-detail: 'In pursuit of following the prudent strategies for long-term business development,
-  Take2 Health has officially settled in Qianhai Kerry Centre, Shenzhen, in 2021 year-end. '
-href: ''
-slug: sz-qianhai-kerry-centre
-languages:
-- en
 hide: false
-
+languages:
+  - en
+cover:
+  - ../images/untitled-design-35.png
+date: 2021-12-16T00:00:00.000+08:00
+title: Take2 Health Settled in Qianhai Kerry Centre, Shenzhen, Laying the
+  Foundation for Business Expansion
+detail: "In pursuit of following the prudent strategies for long-term business
+  development, Take2 Health has officially settled in Qianhai Kerry Centre,
+  Shenzhen, in 2021 year-end. "
+type: company_trends
+href: ""
+slug: sz-qianhai-kerry-centre
+seoTitle: New Office Opening in Qianhai, Shenzhen|Take2 Health
+seoDescription: Take2 Health settled in Shenzhen, expanding our business into
+  the Greater Bay Area (GBA). We are dedicated to improving the health of people
+  in the GBA and across China.
 ---
 ![](../images/2.jpg)
 
