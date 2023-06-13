@@ -1,24 +1,28 @@
 ---
 hide: false
-cpTitle: ""
 isCampaign: false
 postType: campaignStory
 athleteType: 体操
-languages:
-  - zh-HK
 cover:
   - ../images/q3-01.jpg
 date: 2022-06-24T00:00:00.000+08:00
+author: 耳鼻喉科專科徐加明醫生
+cpTitle: ""
+languages:
+  - zh-HK
 title: 【共享醫識】請問醫生#3——感染EB病毒一定是患上鼻咽癌？現時市面已有更準確的檢查？
 detail: 開始步入中年或成為家中支柱，大家自然對健康管理愈加重視，進行年度身體檢查便成為「例行公事」。但是不少人因體檢後，發現自己EB病毒檢查結果呈陽性，為此感到憂心忡忡，生怕患上鼻咽癌。事實是否就是這樣？我們邀請了耳鼻喉科專科徐加明醫生為大家詳細講解。
 type: professional_healthcare_tip
 pdf: ""
 href: ""
 slug: dr-advice-eb-virus
+seoTitle: 感染EB病毒一定是患上鼻咽癌？| Take2 Health
+seoDescription: EB病毒檢查結果呈陽性，擔心自己是否已患上鼻咽癌？原來全球超過9成成年人曾感染EB 病毒，那EB
+  病毒和鼻咽癌有多大關聯？立即和Take2 Health 一探究竟。
 buttonId: RW_HealthTips_Article_Dr_Tsui_NPC_EBV_220624
 cpDetail: ""
 ---
-![](../images/q3-01-01-01.jpg)
+![EB病毒感染非常普遍，並不一定代表患有鼻咽癌](../images/q3-01-01-01.jpg)
 
 開始步入中年或成為家中支柱，大家自然對健康管理愈加重視，進行年度身體檢查便成為「例行公事」。但是不少人因體檢後，發現自己 EB 病毒檢查結果呈陽性，為此感到憂心忡忡，生怕患上鼻咽癌。事實是否就是這樣？我們邀請了耳鼻喉科專科徐加明醫生為大家詳細講解。
 

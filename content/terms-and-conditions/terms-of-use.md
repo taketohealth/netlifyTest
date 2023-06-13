@@ -1,11 +1,12 @@
 ---
 title: Terms of use
 date: 2022-01-02T00:00:00.000+08:00
-languages:
-- en
-slug: website-terms-of-use
 hide: false
-
+slug: website-terms-of-use
+languages:
+  - en
+seoTitle: Website Terms of Use|Take2 Health
+seoDescription: Take2 Health's Website Terms of Use
 ---
 **Terms of Use (“Terms”)**
 

@@ -1,11 +1,12 @@
 ---
 title: Privacy Policy
 date: 2022-01-02T00:00:00.000+08:00
+hide: false
 slug: privacy-policy
 languages:
-- en
-hide: false
-
+  - en
+seoTitle: Privacy Policy|Take2 Health
+seoDescription: Take2 Health's Privacy Policy
 ---
 \**《**Privacy Policy Statement (“Privacy Policy”)
 

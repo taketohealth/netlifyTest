@@ -1,16 +1,18 @@
 ---
-type: industry_information
+hide: true
+languages:
+  - zh-HK
 cover:
-- "../images/untitled-design-30.png"
+  - ../images/untitled-design-30.png
 date: 2021-12-07T00:00:00.000+08:00
 title: Take2 Health 加入中銀人壽「大家減齡」成首家早期癌症篩查合作企業
-detail: Take2 Prophecy™ 早期鼻咽癌篩查於2021年12月正式進駐中銀人壽「大家減齡」會員福利平台，成為目前為中銀人壽「大家減齡」首家及當前唯一的早期癌症篩查合作品牌。
-href: ''
+detail: Take2 Prophecy™
+  早期鼻咽癌篩查於2021年12月正式進駐中銀人壽「大家減齡」會員福利平台，成為目前為中銀人壽「大家減齡」首家及當前唯一的早期癌症篩查合作品牌。
+type: industry_information
+href: ""
 slug: launch-on-boc-live-young
-languages:
-- zh-HK
-hide: false
-
+seoTitle: 正式進駐中銀人壽「大家減齡」會員福利平台|Take2 Health
+seoDescription: Take2 Health正式進駐中銀人壽「大家減齡」會員福利平台，為其保險客戶提供Take2 Prophecy™ 早期鼻咽癌篩查服務。
 ---
 ![](../images/untitled-design-31.png)
 
