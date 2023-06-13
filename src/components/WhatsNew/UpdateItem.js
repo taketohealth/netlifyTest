@@ -99,7 +99,7 @@ const UpdateItem = ({ title, type, date, detail, href, slug, cover }) => {
   const { t } = useI18next()
   const theme = useTheme()
   const matches = useMediaQuery(theme.breakpoints.down('xs'))
-  const images = cover.map((item) => getImage(item))
+  const images = cover?.map((item) => getImage(item))
 
   return (
     <Link to={href || slug} className={classes.link}>

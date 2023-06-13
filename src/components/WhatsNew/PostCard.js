@@ -103,7 +103,7 @@ const useStyles = makeStyles((theme) => ({
 const PostCard = ({ title, detail, type, date, cover, slug, href, withViewBtn, pdf, minHeight }) => {
   const classes = useStyles({ minHeight })
   const { t, routed, language } = useI18next()
-  const images = cover.map((item) => getImage(item))
+  const images = cover?.map((item) => getImage(item))
   const isCampaignPage = useMatch(`${routed ? `/${language}` : ''}/whats-new/campaign`)
 
   return (
