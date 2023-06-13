@@ -82,8 +82,6 @@ collections:
           min: 1,
           max: 50,
           widget: list,
-          required: false,
-          default: [],
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
@@ -141,8 +139,6 @@ collections:
           min: 1,
           max: 50,
           widget: 'list',
-          required: false,
-          default: [],
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
@@ -257,8 +253,6 @@ collections:
           min: 1,
           max: 50,
           widget: 'list',
-          required: false,
-          default: [],
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
       - { label: 'Publish Date', name: 'date', widget: 'date' }

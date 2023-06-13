@@ -109,9 +109,9 @@ const PostCard = ({ title, detail, type, date, cover, slug, href, withViewBtn, p
   return (
     <Link className={classes.link} to={pdf?.publicURL || href || slug} isPdf={Boolean(pdf?.publicURL)}>
       <Box className={classes.root}>
-        <Box height={images?.length>0 && images[0] ? 'auto' : 200} className={classes.imageWrapper}>
-          {images?.length>0 && images[0] && (
-            <GatsbyImage imgClassName={classes.image} image={images?.length>0 && images[0]} placeholder='blurred' alt={title}></GatsbyImage>
+        <Box height={images[0] ? 'auto' : 200} className={classes.imageWrapper}>
+          {images[0] && (
+            <GatsbyImage imgClassName={classes.image} image={images[0]} placeholder='blurred' alt={title}></GatsbyImage>
           )}
         </Box>
         {isCampaignPage ? (
