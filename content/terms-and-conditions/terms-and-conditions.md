@@ -1,11 +1,12 @@
 ---
-slug: terms-and-conditions
-hide: false
-languages:
-- en
 title: Terms and Conditions
 date: 2022-02-01T00:00:00+08:00
-
+hide: false
+slug: terms-and-conditions
+languages:
+  - en
+seoTitle: Terms and Conditions|Take2 Health
+seoDescription: Take2 Health's Terms and Conditions
 ---
 **Take2 Health Platform Terms and Conditions**
 
