@@ -1,19 +1,22 @@
 ---
-type: industry_information
+hide: false
+languages:
+  - en
 cover: []
 date: 2021-12-02T00:00:00.000+08:00
-title: Joining Hands with PwC, to Provide Early Cancer Detection Test via Employee
-  Benefit Platform
-detail: Take2 Health has reached a collaboration with PwC that starting from 2 December
-  2021, PwC employees can enjoy the privileged price for taking the Take2 Prophecy™
-  Test for Nasopharyngeal Cancer in designated medical service providers through their
-  corporate welfare platform PwC Wellness Reimagined.
-href: ''
+title: Joining Hands with PwC, to Provide Early Cancer Detection Test via
+  Employee Benefit Platform
+detail: Take2 Health has reached a collaboration with PwC that starting from 2
+  December 2021, PwC employees can enjoy the privileged price for taking the
+  Take2 Prophecy™ Test for Nasopharyngeal Cancer in designated medical service
+  providers through their corporate welfare platform PwC Wellness Reimagined.
+type: industry_information
+href: ""
 slug: partner-pwc
-languages:
-- en
-hide: false
-
+seoTitle: Corporate Partnership with PwC Hong Kong|Take2 Health
+seoDescription: "The Take2 Prophecy™ Test for Nasopharyngeal Cancer (NPC) is now
+  available for PwC's employees via Wellness Reimagined, PwC's staff benefits
+  platform. "
 ---
 Take2 Health has reached a collaboration with PwC that starting from 2 December 2021, PwC employees can enjoy the privileged price for taking the Take2 Prophecy™ Test for Nasopharyngeal Cancer in designated medical service providers through their corporate welfare platform PwC Wellness Reimagined.
 
