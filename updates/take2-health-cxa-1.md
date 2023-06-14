@@ -1,15 +1,16 @@
 ---
-type: industry_information
+hide: false
+languages:
+  - zh-CN
 cover: []
 date: 2021-11-01T00:00:00.000+08:00
 title: Take2 Health联动CXA集团　提供创新员工医疗福利计划
 detail: Take2 Prophecy™ 早期鼻咽癌筛查及相关套餐于2020年11月正式进驻CXA员工福利平台，为本港用户提供全新的身体检查服务。
-href: ''
+type: industry_information
+href: ""
 slug: partner-CXA
-languages:
-- zh-CN
-hide: false
-
+seoTitle: 与CXA一同提升香港企业员工医疗福利|Take2 Health
+seoDescription: Take2 Health进驻CXA员工福利平台，为本港符合资格的企业员工提供早期癌症筛查服务。我们期望为企业创造更健康、更具竞争力的团队。
 ---
 Take2 Prophecy™ 早期鼻咽癌筛查及相关套餐于2020年11月正式进驻CXA员工福利平台，为本港用户提供全新的身体检查服务。
 
