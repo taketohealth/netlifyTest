@@ -1,15 +1,17 @@
 ---
-type: industry_information
+hide: false
+languages:
+  - zh-CN
 cover: []
 date: 2021-10-01T00:00:00.000+08:00
-title: Take2 Health与毕马威会计师事务所 (KPMG) 达成合作　Take2 Prophecy™　获纳入员工体检计划
-detail: 自2021年10月1日起，KPMG的员工可在其企业员工福利的体检计划内，选择进行Take2 Prophecy™ 早期鼻咽癌筛查，并在完成后申请报销。是次合作不仅体现了跨国大型企业对创新医疗科技的认可，也是对保障员工健康和早期癌症筛查的重视。
-href: ''
+title: Take2 Health与毕马威会计师事务所 (KPMG) 达成合作　Take2 Prophecy™获纳入员工体检计划
+detail: 自2021年10月1日起，KPMG的员工可在其企业员工福利的体检计划内，选择进行Take2 Prophecy™
+  早期鼻咽癌筛查，并在完成后申请报销。是次合作不仅体现了跨国大型企业对创新医疗科技的认可，也是对保障员工健康和早期癌症筛查的重视。
+type: industry_information
+href: ""
 slug: partner-kpmg
-languages:
-- zh-CN
-hide: false
-
+seoTitle: 与毕马威(KPMG)达成合作|Take2 Health
+seoDescription: 毕马威(KPMG)的员工可于其体检计划内，选择进行Take2 Prophecy™早期鼻咽癌筛查。我们期望协助企业满足员工需要，并借此提倡预防医学。
 ---
 自2021年10月1日起，KPMG的员工可在其企业员工福利的体检计划内，选择进行Take2 Prophecy™ 早期鼻咽癌筛查，并在完成后申请报销。是次合作不仅体现了跨国大型企业对创新医疗科技的认可，也是对保障员工健康和早期癌症筛查的重视。
 
