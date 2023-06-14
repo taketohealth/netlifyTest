@@ -10,8 +10,8 @@ detail: Take2 Health 与 Pantai Premier Pathology 达成合作协议，将联手
 type: industry_information
 href: ""
 slug: partner-pantai-premier-pathology
-seoTitle: 獲GRAIL獨家授權早期鼻咽癌檢測技術|Take2 Health
-seoDescription: Take2 Health獲GRAIL獨家授權早期鼻咽癌檢測技術，推動早期鼻咽癌篩查的普及化，讓中國及亞洲其他地區的普羅大眾均能受惠於創新的醫療健康技術。
+seoTitle: 与Pantai Premier Pathology达成合作|Take2 Health
+seoDescription: Take2 Health与马来西亚Pantai Premier Pathology联手推广早期鼻咽癌筛查，助早期患者及早展开治疗并提高其成功治愈的机会。
 ---
 Take2 Health（下称：「我司」）与Pantai Premier Pathology达成合作协议，将联手于马来西亚提供Take2 Prophecy™ 早期鼻咽癌筛查， 以识别出早期鼻咽癌患者，助其及早展开治疗并提高其成功治愈的机会。
 
