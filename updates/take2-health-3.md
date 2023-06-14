@@ -1,15 +1,17 @@
 ---
-type: industry_information
+hide: false
+languages:
+  - zh-CN
 cover: []
 date: 2021-09-17T00:00:00.000+08:00
 title: Take2 Health香港保险业联会　分享无创早期癌症筛查技术
-detail: Take2 Health伙拍香港保险业联会（下称：**“保联”）于2021年9月17日成功举办了“**如何利用游离DNA分析技术作早期癌症筛查”行业分享会。是次活动共有来自37间保险公司超过180名高级管理层参与，参与者均非常投入，反应亦相当积极。
-href: ''
+detail: Take2
+  Health伙拍香港保险业联会（下称：**“保联”）于2021年9月17日成功举办了“**如何利用游离DNA分析技术作早期癌症筛查”行业分享会。是次活动共有来自37间保险公司超过180名高级管理层参与，参与者均非常投入，反应亦相当积极。
+type: industry_information
+href: ""
 slug: hkfi-seminar
-languages:
-- zh-CN
-hide: false
-
+seoTitle: 与香港保险业精英分享最新癌症筛查技术|Take2 Health
+seoDescription: Take2 Health联合香港保险业联会举办了「如何利用游离DNA分析技术作早期癌症筛查」行业分享会，共同守护大众健康。
 ---
 Take2 Health伙拍香港保险业联会（下称：“保联”）于2021年9月17日成功举办了“如何利用游离DNA分析技术作早期癌症筛查”行业分享会。是次活动共有来自37间保险公司超过180名高级管理层参与，参与者均非常投入，反应亦相当积极。
 
