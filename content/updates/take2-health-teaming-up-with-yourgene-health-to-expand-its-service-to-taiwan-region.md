@@ -1,18 +1,22 @@
 ---
-type: industry_information
+hide: false
 languages:
-- en
+  - en
 cover: []
 date: 2020-11-02T00:00:00.000+08:00
-title: Take2 Health Teaming Up with Yourgene Health to Expand its Service to Taiwan
-  Region
-detail: Take2 Health and Yourgene Health have reached a partnership to offer the clinically-validated
-  Take2 Prophecy™ Test for Nasopharyngeal Cancer in Taiwan region, as well as to establish
-  a medical network for the collection of clinical specimens.
-href: ''
+title: Take2 Health Teaming Up with Yourgene Health to Expand its Service to
+  Taiwan Region
+detail: Take2 Health and Yourgene Health have reached a partnership to offer the
+  clinically-validated Take2 Prophecy™ Test for Nasopharyngeal Cancer in Taiwan
+  region, as well as to establish a medical network for the collection of
+  clinical specimens.
+type: industry_information
+href: ""
 slug: partner-yourgene
-hide: false
-
+seoTitle: Partnership with Yourgene Health in Taiwan|Take2 Health
+seoDescription: Take2 Health teamed up with Yourgene Health to expand our
+  service to Taiwan region, aiming to promote the importance of early cancer
+  detection to the public.
 ---
 Take2 Health (“Take2”) and Yourgene Health (“Yourgene”) have reached a partnership to offer the clinically-validated Take2 Prophecy™ Test for Nasopharyngeal Cancer (“NPC”) in Taiwan region, as well as to establish a medical network for the collection of clinical specimens.  In addition, the two parties have signed a Memorandum of Understanding to consider granting rights to allow Yourgene to perform the test in its local laboratory. 
 
