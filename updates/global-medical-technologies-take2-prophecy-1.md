@@ -1,15 +1,17 @@
 ---
-type: industry_information
 hide: false
 languages:
-- zh-CN
+  - zh-CN
 cover: []
 date: 2021-11-15T00:00:00+08:00
-title: 联动 Global Medical Technologies　 Take2 Prophecy™ 现可更广泛提供予菲律宾民众
-detail: Take2 Health 和 Global Medical Technologies 达成合作协议，进一步提供Take2 Prophecy™ 早期鼻咽癌筛查予菲律宾民众，使更多人获益。
-href: ''
+title: 联动Global Medical Technologies　Take2 Prophecy™ 现可更广泛提供予菲律宾民众
+detail: Take2 Health 和 Global Medical Technologies 达成合作协议，进一步提供Take2 Prophecy™
+  早期鼻咽癌筛查予菲律宾民众，使更多人获益。
+type: industry_information
+href: ""
 slug: partner-global-medical-technologies
-
+seoTitle: 联动GMT推广早期鼻咽癌筛查至菲律宾|Take2 Health
+seoDescription: Take2 Health和Global Medical Technologies(GMT)合作，提供早期鼻咽癌筛查予菲律宾民众，在当地推广早期鼻咽癌筛查。
 ---
 Take2 Health（下称：「我司」）和Global Medical Technologies（下称：「GMT」）达成合作协议，进一步提供Take2 Prophecy™ 早期鼻咽癌筛查予菲律宾民众，使更多人获益。
 
