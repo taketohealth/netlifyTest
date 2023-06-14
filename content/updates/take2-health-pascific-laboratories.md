@@ -1,15 +1,17 @@
 ---
-type: industry_information
+hide: false
 languages:
-- zh-HK
+  - zh-HK
 cover: []
 date: 2021-07-26T00:00:00.000+08:00
 title: Take2 Health 與 Pascific Laboratories 達成合作　共同推動早期鼻咽癌篩查
-detail: Take2 Health 和 Pascific Laboratories 成功達成夥伴關係，攜手於菲律賓提供Take2 Prophecy™ 早期鼻咽癌篩查，作為開拓該地區早期癌症篩查業務的第一步。
-href: ''
+detail: Take2 Health 和 Pascific Laboratories 成功達成夥伴關係，攜手於菲律賓提供Take2 Prophecy™
+  早期鼻咽癌篩查，作為開拓該地區早期癌症篩查業務的第一步。
+type: industry_information
+href: ""
 slug: partner-pascific-laboratories
-hide: false
-
+seoTitle: 與菲律賓Pascific Lab達成合作|Take2 Health
+seoDescription: Take2 Health和Pascific Laboratories成為合作夥伴，攜手於菲律賓提供早期鼻咽癌篩查，期望藉此改善當地的整體健康狀況。
 ---
 Take2 Health（下稱：「我司」）和Pascific Laboratories成功達成夥伴關係，攜手於菲律賓提供Take2 Prophecy™ 早期鼻咽癌篩查，作為開拓該地區早期癌症篩查業務的第一步。
 
