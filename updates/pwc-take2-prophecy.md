@@ -1,16 +1,17 @@
 ---
-type: industry_information
+hide: false
+languages:
+  - zh-HK
 cover: []
 date: 2021-12-02T00:00:00.000+08:00
 title: 與羅兵咸永道會計師事務所 (PwC) 達成合作　Take2 Prophecy™ 進駐員工福利平台
-detail: Take2 Health 與羅兵咸永道會計師事務所 (PwC) 達成合作，自2021年12月2日起，PwC員工可於其公司福利應用程式PwC Wellness
-  Reimagined，以尊享價格到線下指定醫務中心進行Take2 Prophecy™ 早期鼻咽癌篩查。
-href: ''
+detail: Take2 Health 與羅兵咸永道會計師事務所 (PwC) 達成合作，自2021年12月2日起，PwC員工可於其公司福利應用程式PwC
+  Wellness Reimagined，以尊享價格到線下指定醫務中心進行Take2 Prophecy™ 早期鼻咽癌篩查。
+type: industry_information
+href: ""
 slug: partner-pwc
-languages:
-- zh-HK
-hide: false
-
+seoTitle: 與羅兵咸永道(PwC)達成合作|Take2 Health
+seoDescription: Take2 Health進駐羅兵咸永道(PwC)員工福利平台Wellness Reimagined，並提供Take2 Prophecy™早期鼻咽癌篩查。
 ---
 Take2 Health（下稱：我司）與羅兵咸永道會計師事務所 (PwC) 達成合作，自2021年12月2日起，PwC員工可於其公司福利應用程式PwC Wellness Reimagined，以尊享價格到線下指定醫務中心進行Take2 Prophecy™ 早期鼻咽癌篩查。
 
