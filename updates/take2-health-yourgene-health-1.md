@@ -1,15 +1,17 @@
 ---
-type: industry_information
 hide: false
 languages:
-- zh-CN
+  - zh-CN
 cover: []
 date: 2020-11-02T00:00:00+08:00
 title: " Take2 Health 和 Yourgene Health 达成合作　将现行服务网络扩展至台湾 地区"
-detail: Take2 Health 和 Yourgene Health 达成合作关系，为台湾地区民众提供经临床实证的Take2 Prophecy™ 早期鼻咽癌筛查，并建立采集临床样本的医疗网络。
-href: ''
+detail: Take2 Health 和 Yourgene Health 达成合作关系，为台湾地区民众提供经临床实证的Take2 Prophecy™
+  早期鼻咽癌筛查，并建立采集临床样本的医疗网络。
+type: industry_information
+href: ""
 slug: partner-yourgene
-
+seoTitle: 与台湾有劲基因合作　扩展业务至台湾地区|Take2 Health
+seoDescription: Take2 Health和Yourgene Health （有劲基因）达成合作，为台湾地区提供经临床实证的Take2 Prophecy™早期鼻咽癌筛查。
 ---
 Take2 Health（下称：「我司」）和Yourgene Health（下称：「有劲基因」）达成合作关系，为台湾地区民众提供经临床实证的Take2 Prophecy™ 早期鼻咽癌筛查，并建立采集临床样本的医疗网络。此外，双方亦同时签署了谅解备忘录，考虑授予有劲基因的本地实验室进行测试的权利。
 
