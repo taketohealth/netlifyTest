@@ -362,7 +362,7 @@ collections:
                 required: false,
               },
 
-              { label: 'Link', name: 'link', widget: 'text', required: false },
+              { label: 'Link(Do not need to fill in the domain name)', name: 'link', widget: 'text', required: false },
               { label: 'Id', name: 'id', widget: 'text', required: false },
             ],
         }
