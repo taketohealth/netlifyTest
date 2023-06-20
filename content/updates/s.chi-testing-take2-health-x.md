@@ -1,23 +1,22 @@
 ---
-type: company_trends
+hide: true
 languages:
-- zh-CN
+  - zh-CN
 cover:
-- "../images/thumbnail-changed-02.jpg"
+  - ../images/thumbnail-changed-02.jpg
 date: 2022-05-23T00:00:00.000+08:00
 title: Take2 Health X 四位顶尖香港运动员　预早准备迎接挑战无顾忌
 detail: 香港运动员持续在国际舞台上发光发热，他们坚毅不屈的斗志和追求卓越的决心，肯定值得我们的掌声。这次拍摄项目，我们很荣幸能邀请到四位来自香港的运动菁英和Take2
   Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！
-href: ''
+type: company_trends
+href: ""
 slug: athletes-program
-hide: true
-
 ---
 ![](../images/thumbnail-changed-05.jpg)
 
 <br/>
 
-香港运动员持续在国际舞台上发光发热，他们坚毅不屈的斗志和追求卓越的决心，绝对值得我们的掌声。 Take2 Health作为香港的初创企业，同样力臻完美，一直致力守护大众的健康，不断地研发创新医疗科技。这次拍摄项目，我们很荣幸能邀请到四位来自香港的运动菁英和Take2 Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！
+香港运动员持续在国际舞台上发光发热，他们坚毅不屈的斗志和追求卓越的决心，绝对值得我们的掌声。 Take2 Health作为香港的初创企业，同样力臻完美，一直致力守护大众的健康，不断地研发创新医疗科技。这次拍摄项目，我们很荣幸能邀请到四位来自香港的运动菁英和Take2 Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！1
 
 <br/>
 
@@ -51,7 +50,7 @@ Take2 Health和制作团队为了能细致地呈现香港运动员的特质，�
 
 <br/>
 
-### _首两位主角：石仔和Kelvin_
+### *首两位主角：石仔和Kelvin*
 
 <br/>
 
@@ -127,7 +126,7 @@ Take2 Health和制作团队为了能细致地呈现香港运动员的特质，�
 
 <br/>
 
-### _第三位主角：Chris_
+### *第三位主角：Chris*
 
 <br/>
 
@@ -193,7 +192,7 @@ Chris解释说，练习瑜珈可以让他的身躯比一般人更柔软，有助
 
 <br/>
 
-### _第四位主角：Sherie_
+### *第四位主角：Sherie*
 
 <br/>
 
@@ -285,9 +284,9 @@ Take2 Prophecy™ 早期鼻咽癌筛查的准确度高于97%⁵ ⁶，而且绝�
 
 现在登记成为会员并使用优惠码【2022NEW】更能尊享推广优惠*！
 
-立即预约：[https://bit.ly/37XYNpY](https://bit.ly/37XYNpY "https://bit.ly/37XYNpY")
+立即预约：[https://bit.ly/37XYNpY](https://bit.ly/37XYNpY "https\://bit.ly/37XYNpY")
 
-了解更多Take2 Prophecy™ 早期鼻咽癌筛查资讯：[https://bit.ly/3MyBAK4](https://bit.ly/3MyBAK4 "https://bit.ly/3MyBAK4")
+了解更多Take2 Prophecy™ 早期鼻咽癌筛查资讯：[https://bit.ly/3MyBAK4](https://bit.ly/3MyBAK4 "https\://bit.ly/3MyBAK4")
 
 \*优惠只限首200名预约者，并受条款及细则约束。
 
@@ -297,14 +296,14 @@ Take2 Prophecy™ 早期鼻咽癌筛查的准确度高于97%⁵ ⁶，而且绝�
 
 参考资料
 
-1\. 鼻咽癌：及早察觉、征状、放射及化学治疗. Hong Kong Anti-Cancer Society, April 2021, [https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf](https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf "https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf").
+1. 鼻咽癌：及早察觉、征状、放射及化学治疗. Hong Kong Anti-Cancer Society, April 2021, [https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf](https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf "https\://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf").
 
-2\. _Overview of Hong Kong Cancer Statistics of 2018_. Hong Kong Hospital Authority, October 2020.
+2. *Overview of Hong Kong Cancer Statistics of 2018*. Hong Kong Hospital Authority, October 2020.
 
-3\. _Hong Kong Cancer Registry_. Hong Kong Hospital Authority, www3.ha.org.hk/cancereg/. Accessed 23 May 2021.
+3. *Hong Kong Cancer Registry*. Hong Kong Hospital Authority, www3.ha.org.hk/cancereg/. Accessed 23 May 2021.
 
-4\. _Overview of Hong Kong Cancer Statistics of 2019_. Hong Kong Hospital Authority, October 2021.
+4. *Overview of Hong Kong Cancer Statistics of 2019*. Hong Kong Hospital Authority, October 2021.
 
-5\. Chan, K. C. Allen, et al. “Analysis of Plasma Epstein–Barr Virus DNA to Screen for Nasopharyngeal Cancer.” _New England Journal of Medicine_, vol. 377, no. 6, 2017, pp. 513–22.
+5. Chan, K. C. Allen, et al. “Analysis of Plasma Epstein–Barr Virus DNA to Screen for Nasopharyngeal Cancer.” *New England Journal of Medicine*, vol. 377, no. 6, 2017, pp. 513–22.
 
-6\. Lam, W. K. Jacky, et al. “Sequencing-Based Counting and Size Profiling of Plasma Epstein–Barr Virus DNA Enhance Population Screening of Nasopharyngeal Carcinoma.” _Proceedings of the National_ _Academy of Sciences_, vol. 115, no. 22, 2018, pp. E5115–24.
+6. Lam, W. K. Jacky, et al. “Sequencing-Based Counting and Size Profiling of Plasma Epstein–Barr Virus DNA Enhance Population Screening of Nasopharyngeal Carcinoma.” *Proceedings of the National* *Academy of Sciences*, vol. 115, no. 22, 2018, pp. E5115–24.
