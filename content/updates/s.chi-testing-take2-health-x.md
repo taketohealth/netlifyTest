@@ -16,7 +16,7 @@ slug: athletes-program
 
 <br/>
 
-香港运动员持续在国际舞台上发光发热，他们坚毅不屈的斗志和追求卓越的决心，绝对值得我们的掌声。 Take2 Health作为香港的初创企业，同样力臻完美，一直致力守护大众的健康，不断地研发创新医疗科技。这次拍摄项目，我们很荣幸能邀请到四位来自香港的运动菁英和Take2 Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！1
+香港运动员持续在国际舞台上发光发热，他们坚毅不屈的斗志和追求卓越的决心，绝对值得我们的掌声。 Take2 Health作为香港的初创企业，同样力臻完美，一直致力守护大众的健康，不断地研发创新医疗科技。这次拍摄项目，我们很荣幸能邀请到四位来自香港的运动菁英和Take2 Health一起预早准备，迎接挑战。现在就让我们立即观看这次拍摄的细节吧！
 
 <br/>
 
@@ -297,13 +297,8 @@ Take2 Prophecy™ 早期鼻咽癌筛查的准确度高于97%⁵ ⁶，而且绝�
 参考资料
 
 1. 鼻咽癌：及早察觉、征状、放射及化学治疗. Hong Kong Anti-Cancer Society, April 2021, [https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf](https://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf "https\://www.hkacs.org.hk/ufiles/NasopharyngealCarcinoma.pdf").
-
 2. *Overview of Hong Kong Cancer Statistics of 2018*. Hong Kong Hospital Authority, October 2020.
-
 3. *Hong Kong Cancer Registry*. Hong Kong Hospital Authority, www3.ha.org.hk/cancereg/. Accessed 23 May 2021.
-
 4. *Overview of Hong Kong Cancer Statistics of 2019*. Hong Kong Hospital Authority, October 2021.
-
 5. Chan, K. C. Allen, et al. “Analysis of Plasma Epstein–Barr Virus DNA to Screen for Nasopharyngeal Cancer.” *New England Journal of Medicine*, vol. 377, no. 6, 2017, pp. 513–22.
-
 6. Lam, W. K. Jacky, et al. “Sequencing-Based Counting and Size Profiling of Plasma Epstein–Barr Virus DNA Enhance Population Screening of Nasopharyngeal Carcinoma.” *Proceedings of the National* *Academy of Sciences*, vol. 115, no. 22, 2018, pp. E5115–24.
