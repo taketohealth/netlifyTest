@@ -32,7 +32,7 @@ collections:
     fields:
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       - {
           label: 'Slug',
@@ -87,7 +87,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown'}
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false}
       - { label: 'Type', name: 'type', widget: 'select', options: [], default: '', required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
@@ -145,7 +145,7 @@ collections:
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'string', required: false}
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown'}
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false}
       - {
           label: 'Type',
           name: 'type',
@@ -190,7 +190,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - {
           label: 'Type',
           name: 'type',
@@ -258,7 +258,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Type', name: 'type', widget: 'select', options: [], default: '', required: false }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
@@ -276,7 +276,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Pdf', name: 'pdf', widget: 'file', required: false }
       - { label: 'Detail', name: 'detail', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Href', name: 'href', widget: 'string', required: false }
       - { label: 'SEOTitle(also used as OG:TITLE)', name: 'seoTitle', widget: 'string', required: false }
       - { label: 'SEODescription(also used as  OG:DESCRIPTION)', name: 'seoDescription', widget: 'string', required: false }
@@ -299,7 +299,7 @@ collections:
           options: ['zh-HK', 'zh-CN', 'en'],
           default: ['zh-HK'],
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - {
           label: 'Department',
           name: 'type',
