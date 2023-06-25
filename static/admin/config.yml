@@ -333,7 +333,7 @@ collections:
           label: 'Buttons',
           name: 'buttons',
           widget: 'list',
-          mix: 1,
+          mix: 0,
           max: 3,
           fields:
             [
@@ -342,7 +342,6 @@ collections:
                 name: 'variant',
                 widget: 'select',
                 options: ['text', 'outlined', 'contained'],
-                default: [],
                 required: false,
               },
               {
@@ -350,7 +349,6 @@ collections:
                 name: 'color',
                 widget: 'select',
                 options: ['primary', 'secondary'],
-                default: [],
                 required: false,
               },
               {
@@ -358,10 +356,8 @@ collections:
                 name: 'name',
                 widget: 'select',
                 options: ['common.learn_more', 'common.book_now'],
-                default: [],
                 required: false,
               },
-
               { label: 'Link(Do not need to fill in the domain name)', name: 'link', widget: 'text', required: false },
               { label: 'Id', name: 'id', widget: 'text', required: false },
             ],
