@@ -14,4 +14,3 @@ href: https://www.med.cuhk.edu.hk/press-releases/cuhk-completes-a-20000-person-p
 slug: ""
 buttonId: RW_HealthTips_Article_External_CUMEDIC_ClinicalTrial_171008
 ---
-1﻿
