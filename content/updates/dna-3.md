@@ -12,4 +12,3 @@ type: company_trends
 href: https://inews.hket.com/article/2868628/?fbclid=IwAR0xpCxJWjui5pzr2XiVcbcwm7rIg4TMM5pfW6ztpZY0y9IrAM7rO3gNpZg
 slug: hket-interview-2
 ---
-.
