@@ -63,7 +63,7 @@ collections:
     label: Promotions Post
     folder: 'content/promotions'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       - {
@@ -99,7 +99,7 @@ collections:
     label: Health Tips Post
     folder: 'content/health-tips'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       # Campaign Post Template
@@ -164,7 +164,7 @@ collections:
     label: Update Post
     folder: 'content/updates'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       - {
@@ -214,7 +214,7 @@ collections:
     label: Campaign Page Post
     folder: 'content/campaign-page-posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
         # Campaign Post Template
@@ -269,7 +269,7 @@ collections:
     label: Clinical Paper
     folder: 'content/clinical-papers'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
@@ -284,7 +284,7 @@ collections:
     label: Career
     folder: 'content/careers'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Hide', name: 'hide', widget: 'boolean', required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
