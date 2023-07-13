@@ -28,7 +28,7 @@ collections:
     label: 'T&C'
     folder: 'content/terms-and-conditions'
     create: true
-    slug: '{{fields.slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}-{{fields.slug}}'
     fields:
       - { label: 'Title(also used as H1TAG)', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'date' }
