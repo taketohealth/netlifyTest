@@ -48,4 +48,4 @@ NPC is a common type of cancer in southern China, including Hong Kong, and South
 
 NPC is closely associated with EBV infection. The study’s results reflect that NPC screening with circulating EBV DNA analysis <b>can be used to detect early-stage NPC, and reflect the risk of future cancer development</b>, thereby one can make more appropriate follow-up arrangements. Ear, Nose, and Throat Specialists also recommend that Hong Kong citizens should consider undergoing relevant screening every 1-2 years, and if there is a family history of NPC, other high-risk factors, or suspected symptoms, more frequent examinations are necessary.
 
-Learn more about the Early NPC Detection Test with the use of Next-generation Sequencing (NGS): <https://take2health.net/en/whats-new/campaign/>
+Learn more about the Early NPC Detection Test with the use of Next-generation Sequencing (NGS): [https://take2health.net/en/whats-new/campaign/](https://take2health.net/en/whats-new/campaign/ "https://take2health.net/en/whats-new/campaign/")
