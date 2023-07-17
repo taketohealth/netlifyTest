@@ -35,4 +35,4 @@ seoDescription: 中大医学院研究证实，血浆EB病毒DNA筛查呈假阳�
 
 鼻咽癌通常与EB病毒感染有关。此项研究结果表明，从血浆中检测鼻咽癌细胞释放的EB病毒DNA，<b>不仅可以用于筛查尚未出现症状的早期鼻咽癌，还可以反映将来罹患癌症的风险，从而制定更合适的复查计划</b>。耳鼻喉科医生建议香港居民每1-2年考虑进行相关筛查。如果有家族病史、其他高危因素或出现疑似症状，则需要更频繁进行检查。
 
-了解高通量测序的鼻咽癌筛查：https://take2health.net/zh-HK/whats-new/campaign/
+了解高通量测序的鼻咽癌筛查：<https://take2health.net/zh-CN/whats-new/campaign/>
