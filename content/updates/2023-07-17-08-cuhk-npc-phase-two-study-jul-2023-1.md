@@ -28,7 +28,7 @@ A recent study conducted by The Chinese University of Hong Kong (CUHK)’s Facul
 
 The important findings were published in NEJM Evidence, a journal from The New England Journal of Medicine, in June 2023.
 
-## Detecting Cancer-associated Aberrations through Liquid Biopsy Can Tell the Future Cancer Risk 
+## Detecting Cancer-associated Aberrations through Liquid Biopsy Can Tell the Future Cancer Risk
 
 The research team conducted a "Plasma DNA Screening" on over 20,000 middle-aged Chinese males in Hong Kong without NPC symptoms between 2013 and 2016. Among them, 309 persons had persistently positive results on initial and follow-up tests, and 34 people were confirmed as having NPC in the first-round screening, of which as many as 70% were early-stage patients (in general, 80% of unscreened patients were diagnosed with NPC at late stages, where the cancer has already spread and deteriorated). The study has fully demonstrated that screening can effectively shift the detection to significantly earlier stages, improving mortality and reducing the side effects of treatments. The landmark results of this study were published in The New England Journal of Medicine, a top international medical journal, in 2017.
 
@@ -48,4 +48,4 @@ NPC is a common type of cancer in southern China, including Hong Kong, and South
 
 NPC is closely associated with EBV infection. The study’s results reflect that NPC screening with circulating EBV DNA analysis <b>can be used to detect early-stage NPC, and reflect the risk of future cancer development</b>, thereby one can make more appropriate follow-up arrangements. Ear, Nose, and Throat Specialists also recommend that Hong Kong citizens should consider undergoing relevant screening every 1-2 years, and if there is a family history of NPC, other high-risk factors, or suspected symptoms, more frequent examinations are necessary.
 
-Learn more about the Early NPC Detection Test with the use of Next-generation Sequencing (NGS): https://take2health.net/zh-HK/whats-new/campaign/
+Learn more about the Early NPC Detection Test with the use of Next-generation Sequencing (NGS): <https://take2health.net/en/whats-new/campaign/>
