@@ -5,7 +5,7 @@ languages:
   - zh-CN
 cover:
   - ../images/d100-nr-ng-part-3_cover_1.webp
-date: 2023-07-20T08:28:14.334Z
+date: 2023-06-19T08:28:14.334Z
 title: 【共享医识】传统鼻咽癌测试原来有一大缺陷？耳鼻喉专科医生认同次世代DNA测序筛查技术更精准！
 author: 耳鼻喉科专科吴耀荣医生
 detail: 耳鼻喉专科医生认同高通量测序筛查技术更精准
