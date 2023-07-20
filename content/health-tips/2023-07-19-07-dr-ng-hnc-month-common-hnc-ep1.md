@@ -9,7 +9,7 @@ date: 2023-04-14T07:15:47.981Z
 title: 【共享醫識】頭頸癌關注月－耳鼻喉專科醫生拆解本港最常見頭頸癌
 author: 耳鼻喉科專科吳耀榮醫生
 detail: 耳鼻喉專科醫生拆解本港最常見頭頸癌
-type: ""
+type: professional_healthcare_tip
 slug: dr-ng-hnc-month-common-hnc-ep1
 seoTitle: 耳鼻喉專科醫生拆解本港最常見頭頸癌 | Take2 Health
 seoDescription: 鼻咽癌雖然佔整體頭頸癌病例超過一半，但原來大眾一般都容易忽視其病徵，耳鼻喉專科吳耀榮醫生為大家拆解最常見頭頸癌。
