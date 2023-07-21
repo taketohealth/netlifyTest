@@ -276,9 +276,8 @@ const plugins_to_pick = [
   },
   `gatsby-plugin-meta-redirect`, // make sure to put last in the array
   // 'gatsby-plugin-netlify',
+  `gatsby-plugin-no-index`,
 ]
-
-process.env.GATSBY_ENV === 'staging' ? plugins_to_pick.unshift(`gatsby-plugin-no-index`) : plugins_to_pick
 
 module.exports = {
   flags: {
