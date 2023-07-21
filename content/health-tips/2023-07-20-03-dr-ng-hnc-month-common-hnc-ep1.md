@@ -9,7 +9,7 @@ date: 2023-04-14T03:40:22.376Z
 title: 【共享医识】头颈癌关注月－耳鼻喉专科医生拆解本港最常见头颈癌
 author: 耳鼻喉科专科吴耀荣医生
 detail: 耳鼻喉专科医生拆解本港最常见头颈癌
-type: ""
+type: professional_healthcare_tip
 slug: dr-ng-hnc-month-common-hnc-ep1
 seoTitle: 耳鼻喉专科医生拆解本港最常见头颈癌 | Take2 Health
 seoDescription: 鼻咽癌虽然占整体头颈癌病例超过一半，但原来大众一般都容易忽视其病征，耳鼻喉专科吴耀荣医生为大家拆解最常见头颈癌。
